@@ -1,0 +1,241 @@
+Geography,Contact Related Crime,Financial Year,Count
+ZA,Arson,2011/2012,5996
+ZA,Arson,2012/2013,5665
+ZA,Arson,2013/2014,5458
+ZA,Arson,2014/2015,5127
+ZA,Arson,2015/2016,4903
+ZA,Arson,2016/2017,4321
+ZA,Arson,2017/2018,3869
+ZA,Arson,2018/2019,4083
+ZA,Arson,2019/2020,3783
+ZA,Arson,2020/2021,3238
+ZA,Malicious Damage to Property,2011/2012,119907
+ZA,Malicious Damage to Property,2012/2013,119026
+ZA,Malicious Damage to Property,2013/2014,117983
+ZA,Malicious Damage to Property,2014/2015,120662
+ZA,Malicious Damage to Property,2015/2016,119901
+ZA,Malicious Damage to Property,2016/2017,116409
+ZA,Malicious Damage to Property,2017/2018,111492
+ZA,Malicious Damage to Property,2018/2019,113089
+ZA,Malicious Damage to Property,2019/2020,108461
+ZA,Malicious Damage to Property,2020/2021,99031
+EC,Arson,2011/2012,980
+EC,Arson,2012/2013,968
+EC,Arson,2013/2014,1061
+EC,Arson,2014/2015,785
+EC,Arson,2015/2016,679
+EC,Arson,2016/2017,748
+EC,Arson,2017/2018,605
+EC,Arson,2018/2019,698
+EC,Arson,2019/2020,666
+EC,Arson,2020/2021,560
+EC,Malicious Damage to Property,2011/2012,12707
+EC,Malicious Damage to Property,2012/2013,12546
+EC,Malicious Damage to Property,2013/2014,12674
+EC,Malicious Damage to Property,2014/2015,12399
+EC,Malicious Damage to Property,2015/2016,11819
+EC,Malicious Damage to Property,2016/2017,12062
+EC,Malicious Damage to Property,2017/2018,11422
+EC,Malicious Damage to Property,2018/2019,12040
+EC,Malicious Damage to Property,2019/2020,12055
+EC,Malicious Damage to Property,2020/2021,11113
+FS,Arson,2011/2012,404
+FS,Arson,2012/2013,377
+FS,Arson,2013/2014,344
+FS,Arson,2014/2015,287
+FS,Arson,2015/2016,265
+FS,Arson,2016/2017,186
+FS,Arson,2017/2018,164
+FS,Arson,2018/2019,123
+FS,Arson,2019/2020,148
+FS,Arson,2020/2021,127
+FS,Malicious Damage to Property,2011/2012,8730
+FS,Malicious Damage to Property,2012/2013,8770
+FS,Malicious Damage to Property,2013/2014,8080
+FS,Malicious Damage to Property,2014/2015,7655
+FS,Malicious Damage to Property,2015/2016,7551
+FS,Malicious Damage to Property,2016/2017,6652
+FS,Malicious Damage to Property,2017/2018,6068
+FS,Malicious Damage to Property,2018/2019,5993
+FS,Malicious Damage to Property,2019/2020,5592
+FS,Malicious Damage to Property,2020/2021,5642
+GT,Arson,2011/2012,1378
+GT,Arson,2012/2013,1166
+GT,Arson,2013/2014,1172
+GT,Arson,2014/2015,1042
+GT,Arson,2015/2016,992
+GT,Arson,2016/2017,724
+GT,Arson,2017/2018,495
+GT,Arson,2018/2019,532
+GT,Arson,2019/2020,476
+GT,Arson,2020/2021,443
+GT,Malicious Damage to Property,2011/2012,36418
+GT,Malicious Damage to Property,2012/2013,35033
+GT,Malicious Damage to Property,2013/2014,34585
+GT,Malicious Damage to Property,2014/2015,34805
+GT,Malicious Damage to Property,2015/2016,34320
+GT,Malicious Damage to Property,2016/2017,33299
+GT,Malicious Damage to Property,2017/2018,31961
+GT,Malicious Damage to Property,2018/2019,30743
+GT,Malicious Damage to Property,2019/2020,28756
+GT,Malicious Damage to Property,2020/2021,24553
+KZN,Arson,2011/2012,1030
+KZN,Arson,2012/2013,946
+KZN,Arson,2013/2014,896
+KZN,Arson,2014/2015,854
+KZN,Arson,2015/2016,825
+KZN,Arson,2016/2017,699
+KZN,Arson,2017/2018,679
+KZN,Arson,2018/2019,754
+KZN,Arson,2019/2020,762
+KZN,Arson,2020/2021,619
+KZN,Malicious Damage to Property,2011/2012,15394
+KZN,Malicious Damage to Property,2012/2013,15670
+KZN,Malicious Damage to Property,2013/2014,14954
+KZN,Malicious Damage to Property,2014/2015,14605
+KZN,Malicious Damage to Property,2015/2016,14709
+KZN,Malicious Damage to Property,2016/2017,14010
+KZN,Malicious Damage to Property,2017/2018,12958
+KZN,Malicious Damage to Property,2018/2019,13704
+KZN,Malicious Damage to Property,2019/2020,13358
+KZN,Malicious Damage to Property,2020/2021,12608
+LIM,Arson,2011/2012,599
+LIM,Arson,2012/2013,649
+LIM,Arson,2013/2014,565
+LIM,Arson,2014/2015,585
+LIM,Arson,2015/2016,613
+LIM,Arson,2016/2017,484
+LIM,Arson,2017/2018,431
+LIM,Arson,2018/2019,390
+LIM,Arson,2019/2020,354
+LIM,Arson,2020/2021,260
+LIM,Malicious Damage to Property,2011/2012,6936
+LIM,Malicious Damage to Property,2012/2013,6647
+LIM,Malicious Damage to Property,2013/2014,6580
+LIM,Malicious Damage to Property,2014/2015,6959
+LIM,Malicious Damage to Property,2015/2016,7612
+LIM,Malicious Damage to Property,2016/2017,6868
+LIM,Malicious Damage to Property,2017/2018,6815
+LIM,Malicious Damage to Property,2018/2019,6771
+LIM,Malicious Damage to Property,2019/2020,6589
+LIM,Malicious Damage to Property,2020/2021,6606
+MP,Arson,2011/2012,294
+MP,Arson,2012/2013,284
+MP,Arson,2013/2014,260
+MP,Arson,2014/2015,291
+MP,Arson,2015/2016,286
+MP,Arson,2016/2017,260
+MP,Arson,2017/2018,254
+MP,Arson,2018/2019,235
+MP,Arson,2019/2020,245
+MP,Arson,2020/2021,206
+MP,Malicious Damage to Property,2011/2012,6420
+MP,Malicious Damage to Property,2012/2013,6071
+MP,Malicious Damage to Property,2013/2014,5712
+MP,Malicious Damage to Property,2014/2015,5839
+MP,Malicious Damage to Property,2015/2016,5827
+MP,Malicious Damage to Property,2016/2017,5574
+MP,Malicious Damage to Property,2017/2018,5519
+MP,Malicious Damage to Property,2018/2019,5796
+MP,Malicious Damage to Property,2019/2020,5955
+MP,Malicious Damage to Property,2020/2021,5497
+NW,Arson,2011/2012,470
+NW,Arson,2012/2013,407
+NW,Arson,2013/2014,348
+NW,Arson,2014/2015,329
+NW,Arson,2015/2016,314
+NW,Arson,2016/2017,290
+NW,Arson,2017/2018,323
+NW,Arson,2018/2019,347
+NW,Arson,2019/2020,246
+NW,Arson,2020/2021,228
+NW,Malicious Damage to Property,2011/2012,6443
+NW,Malicious Damage to Property,2012/2013,6299
+NW,Malicious Damage to Property,2013/2014,5853
+NW,Malicious Damage to Property,2014/2015,5902
+NW,Malicious Damage to Property,2015/2016,5762
+NW,Malicious Damage to Property,2016/2017,5774
+NW,Malicious Damage to Property,2017/2018,5821
+NW,Malicious Damage to Property,2018/2019,6285
+NW,Malicious Damage to Property,2019/2020,5964
+NW,Malicious Damage to Property,2020/2021,5760
+NC,Arson,2011/2012,178
+NC,Arson,2012/2013,177
+NC,Arson,2013/2014,163
+NC,Arson,2014/2015,172
+NC,Arson,2015/2016,172
+NC,Arson,2016/2017,149
+NC,Arson,2017/2018,156
+NC,Arson,2018/2019,162
+NC,Arson,2019/2020,137
+NC,Arson,2020/2021,121
+NC,Malicious Damage to Property,2011/2012,2791
+NC,Malicious Damage to Property,2012/2013,3102
+NC,Malicious Damage to Property,2013/2014,3087
+NC,Malicious Damage to Property,2014/2015,3209
+NC,Malicious Damage to Property,2015/2016,3084
+NC,Malicious Damage to Property,2016/2017,2954
+NC,Malicious Damage to Property,2017/2018,2927
+NC,Malicious Damage to Property,2018/2019,3243
+NC,Malicious Damage to Property,2019/2020,3104
+NC,Malicious Damage to Property,2020/2021,3034
+WC,Arson,2011/2012,663
+WC,Arson,2012/2013,691
+WC,Arson,2013/2014,649
+WC,Arson,2014/2015,782
+WC,Arson,2015/2016,757
+WC,Arson,2016/2017,781
+WC,Arson,2017/2018,762
+WC,Arson,2018/2019,842
+WC,Arson,2019/2020,749
+WC,Arson,2020/2021,674
+WC,Malicious Damage to Property,2011/2012,24068
+WC,Malicious Damage to Property,2012/2013,24888
+WC,Malicious Damage to Property,2013/2014,26458
+WC,Malicious Damage to Property,2014/2015,29289
+WC,Malicious Damage to Property,2015/2016,29217
+WC,Malicious Damage to Property,2016/2017,29216
+WC,Malicious Damage to Property,2017/2018,28001
+WC,Malicious Damage to Property,2018/2019,28514
+WC,Malicious Damage to Property,2019/2020,27088
+WC,Malicious Damage to Property,2020/2021,24218
+ZA,Arson,2021/2022,4102
+ZA,Malicious Damage to Property,2021/2022,113403
+EC,Arson,2021/2022,592
+EC,Malicious Damage to Property,2021/2022,12574
+FS,Arson,2021/2022,171
+FS,Malicious Damage to Property,2021/2022,6635
+GT,Arson,2021/2022,505
+GT,Malicious Damage to Property,2021/2022,28894
+KZN,Arson,2021/2022,1048
+KZN,Malicious Damage to Property,2021/2022,15464
+LIM,Arson,2021/2022,340
+LIM,Malicious Damage to Property,2021/2022,7428
+MP,Arson,2021/2022,288
+MP,Malicious Damage to Property,2021/2022,5984
+NW,Arson,2021/2022,268
+NW,Malicious Damage to Property,2021/2022,6471
+NC,Arson,2021/2022,179
+NC,Malicious Damage to Property,2021/2022,3614
+WC,Arson,2021/2022,711
+WC,Malicious Damage to Property,2021/2022,26339
+ZA,Arson,2022/2023,3671
+ZA,Malicious Damage to Property,2022/2023,115145
+EC,Arson,2022/2023,593
+EC,Malicious Damage to Property,2022/2023,12866
+FS,Arson,2022/2023,143
+FS,Malicious Damage to Property,2022/2023,6980
+GT,Arson,2022/2023,452
+GT,Malicious Damage to Property,2022/2023,28800
+KZN,Arson,2022/2023,692
+KZN,Malicious Damage to Property,2022/2023,14057
+LIM,Arson,2022/2023,351
+LIM,Malicious Damage to Property,2022/2023,7820
+MP,Arson,2022/2023,273
+MP,Malicious Damage to Property,2022/2023,5751
+NW,Arson,2022/2023,255
+NW,Malicious Damage to Property,2022/2023,6916
+NC,Arson,2022/2023,200
+NC,Malicious Damage to Property,2022/2023,4072
+WC,Arson,2022/2023,712
+WC,Malicious Damage to Property,2022/2023,27883

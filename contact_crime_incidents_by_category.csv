@@ -1,0 +1,841 @@
+Geography,Contact Crime,Financial Year,Count
+ZA,Murder,2011/2012,15554
+ZA,Murder,2012/2013,16213
+ZA,Murder,2013/2014,17023
+ZA,Murder,2014/2015,17805
+ZA,Murder,2015/2016,18673
+ZA,Murder,2016/2017,19016
+ZA,Murder,2017/2018,20336
+ZA,Murder,2018/2019,21022
+ZA,Murder,2019/2020,21325
+ZA,Murder,2020/2021,19972
+ZA,Sexual Offences,2011/2012,60539
+ZA,Sexual Offences,2012/2013,60888
+ZA,Sexual Offences,2013/2014,56680
+ZA,Sexual Offences,2014/2015,53617
+ZA,Sexual Offences,2015/2016,51895
+ZA,Sexual Offences,2016/2017,49660
+ZA,Sexual Offences,2017/2018,50108
+ZA,Sexual Offences,2018/2019,52420
+ZA,Sexual Offences,2019/2020,53293
+ZA,Sexual Offences,2020/2021,46214
+ZA,Attempted Murder,2011/2012,14730
+ZA,Attempted Murder,2012/2013,16236
+ZA,Attempted Murder,2013/2014,16989
+ZA,Attempted Murder,2014/2015,17537
+ZA,Attempted Murder,2015/2016,18127
+ZA,Attempted Murder,2016/2017,18205
+ZA,Attempted Murder,2017/2018,18233
+ZA,Attempted Murder,2018/2019,18980
+ZA,Attempted Murder,2019/2020,18635
+ZA,Attempted Murder,2020/2021,18707
+ZA,Assault With The Intent To Inflict Grievous Bodily Harm,2011/2012,191612
+ZA,Assault With The Intent To Inflict Grievous Bodily Harm,2012/2013,185050
+ZA,Assault With The Intent To Inflict Grievous Bodily Harm,2013/2014,182333
+ZA,Assault With The Intent To Inflict Grievous Bodily Harm,2014/2015,182556
+ZA,Assault With The Intent To Inflict Grievous Bodily Harm,2015/2016,182933
+ZA,Assault With The Intent To Inflict Grievous Bodily Harm,2016/2017,170616
+ZA,Assault With The Intent To Inflict Grievous Bodily Harm,2017/2018,167352
+ZA,Assault With The Intent To Inflict Grievous Bodily Harm,2018/2019,170979
+ZA,Assault With The Intent To Inflict Grievous Bodily Harm,2019/2020,166720
+ZA,Assault With The Intent To Inflict Grievous Bodily Harm,2020/2021,143393
+ZA,Common Assault,2011/2012,180165
+ZA,Common Assault,2012/2013,171653
+ZA,Common Assault,2013/2014,166081
+ZA,Common Assault,2014/2015,161486
+ZA,Common Assault,2015/2016,164958
+ZA,Common Assault,2016/2017,156450
+ZA,Common Assault,2017/2018,156243
+ZA,Common Assault,2018/2019,162012
+ZA,Common Assault,2019/2020,165494
+ZA,Common Assault,2020/2021,149442
+ZA,Common Robbery,2011/2012,52566
+ZA,Common Robbery,2012/2013,53196
+ZA,Common Robbery,2013/2014,53505
+ZA,Common Robbery,2014/2015,54927
+ZA,Common Robbery,2015/2016,54110
+ZA,Common Robbery,2016/2017,53418
+ZA,Common Robbery,2017/2018,50730
+ZA,Common Robbery,2018/2019,51765
+ZA,Common Robbery,2019/2020,51825
+ZA,Common Robbery,2020/2021,37648
+ZA,Robbery With Aggravating Circumstances,2011/2012,100769
+ZA,Robbery With Aggravating Circumstances,2012/2013,105488
+ZA,Robbery With Aggravating Circumstances,2013/2014,118963
+ZA,Robbery With Aggravating Circumstances,2014/2015,129045
+ZA,Robbery With Aggravating Circumstances,2015/2016,132527
+ZA,Robbery With Aggravating Circumstances,2016/2017,140956
+ZA,Robbery With Aggravating Circumstances,2017/2018,138364
+ZA,Robbery With Aggravating Circumstances,2018/2019,140032
+ZA,Robbery With Aggravating Circumstances,2019/2020,143990
+ZA,Robbery With Aggravating Circumstances,2020/2021,119841
+EC,Murder,2011/2012,3269
+EC,Murder,2012/2013,3335
+EC,Murder,2013/2014,3441
+EC,Murder,2014/2015,3321
+EC,Murder,2015/2016,3649
+EC,Murder,2016/2017,3628
+EC,Murder,2017/2018,3815
+EC,Murder,2018/2019,3965
+EC,Murder,2019/2020,3879
+EC,Murder,2020/2021,3713
+EC,Sexual Offences,2011/2012,9001
+EC,Sexual Offences,2012/2013,9288
+EC,Sexual Offences,2013/2014,9616
+EC,Sexual Offences,2014/2015,9224
+EC,Sexual Offences,2015/2016,8797
+EC,Sexual Offences,2016/2017,8050
+EC,Sexual Offences,2017/2018,8094
+EC,Sexual Offences,2018/2019,8731
+EC,Sexual Offences,2019/2020,8708
+EC,Sexual Offences,2020/2021,7445
+EC,Attempted Murder,2011/2012,1721
+EC,Attempted Murder,2012/2013,1755
+EC,Attempted Murder,2013/2014,1853
+EC,Attempted Murder,2014/2015,1832
+EC,Attempted Murder,2015/2016,2052
+EC,Attempted Murder,2016/2017,2110
+EC,Attempted Murder,2017/2018,2232
+EC,Attempted Murder,2018/2019,2305
+EC,Attempted Murder,2019/2020,2409
+EC,Attempted Murder,2020/2021,2104
+EC,Assault With The Intent To Inflict Grievous Bodily Harm,2011/2012,29275
+EC,Assault With The Intent To Inflict Grievous Bodily Harm,2012/2013,27788
+EC,Assault With The Intent To Inflict Grievous Bodily Harm,2013/2014,27361
+EC,Assault With The Intent To Inflict Grievous Bodily Harm,2014/2015,25431
+EC,Assault With The Intent To Inflict Grievous Bodily Harm,2015/2016,24818
+EC,Assault With The Intent To Inflict Grievous Bodily Harm,2016/2017,23241
+EC,Assault With The Intent To Inflict Grievous Bodily Harm,2017/2018,23133
+EC,Assault With The Intent To Inflict Grievous Bodily Harm,2018/2019,24125
+EC,Assault With The Intent To Inflict Grievous Bodily Harm,2019/2020,23376
+EC,Assault With The Intent To Inflict Grievous Bodily Harm,2020/2021,20238
+EC,Common Assault,2011/2012,15159
+EC,Common Assault,2012/2013,14168
+EC,Common Assault,2013/2014,13330
+EC,Common Assault,2014/2015,11848
+EC,Common Assault,2015/2016,11475
+EC,Common Assault,2016/2017,11100
+EC,Common Assault,2017/2018,11171
+EC,Common Assault,2018/2019,11943
+EC,Common Assault,2019/2020,12527
+EC,Common Assault,2020/2021,11399
+EC,Common Robbery,2011/2012,4878
+EC,Common Robbery,2012/2013,4565
+EC,Common Robbery,2013/2014,3988
+EC,Common Robbery,2014/2015,3753
+EC,Common Robbery,2015/2016,3690
+EC,Common Robbery,2016/2017,3707
+EC,Common Robbery,2017/2018,3463
+EC,Common Robbery,2018/2019,3769
+EC,Common Robbery,2019/2020,3663
+EC,Common Robbery,2020/2021,2736
+EC,Robbery With Aggravating Circumstances,2011/2012,12476
+EC,Robbery With Aggravating Circumstances,2012/2013,11751
+EC,Robbery With Aggravating Circumstances,2013/2014,13443
+EC,Robbery With Aggravating Circumstances,2014/2015,13245
+EC,Robbery With Aggravating Circumstances,2015/2016,12777
+EC,Robbery With Aggravating Circumstances,2016/2017,13688
+EC,Robbery With Aggravating Circumstances,2017/2018,13485
+EC,Robbery With Aggravating Circumstances,2018/2019,13578
+EC,Robbery With Aggravating Circumstances,2019/2020,13983
+EC,Robbery With Aggravating Circumstances,2020/2021,11458
+FS,Murder,2011/2012,954
+FS,Murder,2012/2013,1019
+FS,Murder,2013/2014,942
+FS,Murder,2014/2015,943
+FS,Murder,2015/2016,993
+FS,Murder,2016/2017,950
+FS,Murder,2017/2018,1054
+FS,Murder,2018/2019,1000
+FS,Murder,2019/2020,939
+FS,Murder,2020/2021,834
+FS,Sexual Offences,2011/2012,4785
+FS,Sexual Offences,2012/2013,5098
+FS,Sexual Offences,2013/2014,4584
+FS,Sexual Offences,2014/2015,4094
+FS,Sexual Offences,2015/2016,3928
+FS,Sexual Offences,2016/2017,3488
+FS,Sexual Offences,2017/2018,3284
+FS,Sexual Offences,2018/2019,3457
+FS,Sexual Offences,2019/2020,3746
+FS,Sexual Offences,2020/2021,2971
+FS,Attempted Murder,2011/2012,855
+FS,Attempted Murder,2012/2013,938
+FS,Attempted Murder,2013/2014,906
+FS,Attempted Murder,2014/2015,816
+FS,Attempted Murder,2015/2016,787
+FS,Attempted Murder,2016/2017,694
+FS,Attempted Murder,2017/2018,617
+FS,Attempted Murder,2018/2019,844
+FS,Attempted Murder,2019/2020,736
+FS,Attempted Murder,2020/2021,727
+FS,Assault With The Intent To Inflict Grievous Bodily Harm,2011/2012,14955
+FS,Assault With The Intent To Inflict Grievous Bodily Harm,2012/2013,15317
+FS,Assault With The Intent To Inflict Grievous Bodily Harm,2013/2014,14465
+FS,Assault With The Intent To Inflict Grievous Bodily Harm,2014/2015,13458
+FS,Assault With The Intent To Inflict Grievous Bodily Harm,2015/2016,13116
+FS,Assault With The Intent To Inflict Grievous Bodily Harm,2016/2017,11702
+FS,Assault With The Intent To Inflict Grievous Bodily Harm,2017/2018,10842
+FS,Assault With The Intent To Inflict Grievous Bodily Harm,2018/2019,11120
+FS,Assault With The Intent To Inflict Grievous Bodily Harm,2019/2020,10887
+FS,Assault With The Intent To Inflict Grievous Bodily Harm,2020/2021,9550
+FS,Common Assault,2011/2012,17944
+FS,Common Assault,2012/2013,17623
+FS,Common Assault,2013/2014,17064
+FS,Common Assault,2014/2015,15243
+FS,Common Assault,2015/2016,15194
+FS,Common Assault,2016/2017,13568
+FS,Common Assault,2017/2018,12701
+FS,Common Assault,2018/2019,13032
+FS,Common Assault,2019/2020,12649
+FS,Common Assault,2020/2021,12184
+FS,Common Robbery,2011/2012,2670
+FS,Common Robbery,2012/2013,2694
+FS,Common Robbery,2013/2014,2637
+FS,Common Robbery,2014/2015,2521
+FS,Common Robbery,2015/2016,2304
+FS,Common Robbery,2016/2017,2192
+FS,Common Robbery,2017/2018,2195
+FS,Common Robbery,2018/2019,2087
+FS,Common Robbery,2019/2020,1983
+FS,Common Robbery,2020/2021,1410
+FS,Robbery With Aggravating Circumstances,2011/2012,5323
+FS,Robbery With Aggravating Circumstances,2012/2013,5791
+FS,Robbery With Aggravating Circumstances,2013/2014,5347
+FS,Robbery With Aggravating Circumstances,2014/2015,5239
+FS,Robbery With Aggravating Circumstances,2015/2016,4778
+FS,Robbery With Aggravating Circumstances,2016/2017,5147
+FS,Robbery With Aggravating Circumstances,2017/2018,5032
+FS,Robbery With Aggravating Circumstances,2018/2019,5339
+FS,Robbery With Aggravating Circumstances,2019/2020,5119
+FS,Robbery With Aggravating Circumstances,2020/2021,3992
+GT,Murder,2011/2012,2995
+GT,Murder,2012/2013,2988
+GT,Murder,2013/2014,3325
+GT,Murder,2014/2015,3671
+GT,Murder,2015/2016,3842
+GT,Murder,2016/2017,4101
+GT,Murder,2017/2018,4233
+GT,Murder,2018/2019,4495
+GT,Murder,2019/2020,4555
+GT,Murder,2020/2021,4079
+GT,Sexual Offences,2011/2012,11512
+GT,Sexual Offences,2012/2013,11113
+GT,Sexual Offences,2013/2014,10264
+GT,Sexual Offences,2014/2015,9902
+GT,Sexual Offences,2015/2016,9510
+GT,Sexual Offences,2016/2017,9566
+GT,Sexual Offences,2017/2018,10116
+GT,Sexual Offences,2018/2019,10752
+GT,Sexual Offences,2019/2020,10810
+GT,Sexual Offences,2020/2021,9749
+GT,Attempted Murder,2011/2012,3432
+GT,Attempted Murder,2012/2013,3571
+GT,Attempted Murder,2013/2014,3866
+GT,Attempted Murder,2014/2015,4202
+GT,Attempted Murder,2015/2016,4574
+GT,Attempted Murder,2016/2017,4872
+GT,Attempted Murder,2017/2018,4462
+GT,Attempted Murder,2018/2019,4455
+GT,Attempted Murder,2019/2020,4639
+GT,Attempted Murder,2020/2021,4312
+GT,Assault With The Intent To Inflict Grievous Bodily Harm,2011/2012,42939
+GT,Assault With The Intent To Inflict Grievous Bodily Harm,2012/2013,40430
+GT,Assault With The Intent To Inflict Grievous Bodily Harm,2013/2014,41182
+GT,Assault With The Intent To Inflict Grievous Bodily Harm,2014/2015,41830
+GT,Assault With The Intent To Inflict Grievous Bodily Harm,2015/2016,42790
+GT,Assault With The Intent To Inflict Grievous Bodily Harm,2016/2017,39684
+GT,Assault With The Intent To Inflict Grievous Bodily Harm,2017/2018,39552
+GT,Assault With The Intent To Inflict Grievous Bodily Harm,2018/2019,39805
+GT,Assault With The Intent To Inflict Grievous Bodily Harm,2019/2020,38362
+GT,Assault With The Intent To Inflict Grievous Bodily Harm,2020/2021,33605
+GT,Common Assault,2011/2012,48437
+GT,Common Assault,2012/2013,44387
+GT,Common Assault,2013/2014,44159
+GT,Common Assault,2014/2015,42918
+GT,Common Assault,2015/2016,44255
+GT,Common Assault,2016/2017,42083
+GT,Common Assault,2017/2018,43587
+GT,Common Assault,2018/2019,45590
+GT,Common Assault,2019/2020,47356
+GT,Common Assault,2020/2021,42621
+GT,Common Robbery,2011/2012,15826
+GT,Common Robbery,2012/2013,15404
+GT,Common Robbery,2013/2014,15579
+GT,Common Robbery,2014/2015,17379
+GT,Common Robbery,2015/2016,18051
+GT,Common Robbery,2016/2017,17367
+GT,Common Robbery,2017/2018,16984
+GT,Common Robbery,2018/2019,17757
+GT,Common Robbery,2019/2020,18088
+GT,Common Robbery,2020/2021,13436
+GT,Robbery With Aggravating Circumstances,2011/2012,35148
+GT,Robbery With Aggravating Circumstances,2012/2013,35717
+GT,Robbery With Aggravating Circumstances,2013/2014,42506
+GT,Robbery With Aggravating Circumstances,2014/2015,47362
+GT,Robbery With Aggravating Circumstances,2015/2016,49792
+GT,Robbery With Aggravating Circumstances,2016/2017,53793
+GT,Robbery With Aggravating Circumstances,2017/2018,51706
+GT,Robbery With Aggravating Circumstances,2018/2019,52040
+GT,Robbery With Aggravating Circumstances,2019/2020,53927
+GT,Robbery With Aggravating Circumstances,2020/2021,44109
+KZN,Murder,2011/2012,3418
+KZN,Murder,2012/2013,3623
+KZN,Murder,2013/2014,3616
+KZN,Murder,2014/2015,3810
+KZN,Murder,2015/2016,3929
+KZN,Murder,2016/2017,4014
+KZN,Murder,2017/2018,4382
+KZN,Murder,2018/2019,4395
+KZN,Murder,2019/2020,4859
+KZN,Murder,2020/2021,4825
+KZN,Sexual Offences,2011/2012,11034
+KZN,Sexual Offences,2012/2013,10964
+KZN,Sexual Offences,2013/2014,9889
+KZN,Sexual Offences,2014/2015,9079
+KZN,Sexual Offences,2015/2016,8947
+KZN,Sexual Offences,2016/2017,8484
+KZN,Sexual Offences,2017/2018,8759
+KZN,Sexual Offences,2018/2019,9308
+KZN,Sexual Offences,2019/2020,9809
+KZN,Sexual Offences,2020/2021,8201
+KZN,Attempted Murder,2011/2012,3643
+KZN,Attempted Murder,2012/2013,3827
+KZN,Attempted Murder,2013/2014,3835
+KZN,Attempted Murder,2014/2015,3918
+KZN,Attempted Murder,2015/2016,4041
+KZN,Attempted Murder,2016/2017,3914
+KZN,Attempted Murder,2017/2018,4099
+KZN,Attempted Murder,2018/2019,4203
+KZN,Attempted Murder,2019/2020,4161
+KZN,Attempted Murder,2020/2021,4391
+KZN,Assault With The Intent To Inflict Grievous Bodily Harm,2011/2012,29504
+KZN,Assault With The Intent To Inflict Grievous Bodily Harm,2012/2013,28832
+KZN,Assault With The Intent To Inflict Grievous Bodily Harm,2013/2014,28982
+KZN,Assault With The Intent To Inflict Grievous Bodily Harm,2014/2015,29201
+KZN,Assault With The Intent To Inflict Grievous Bodily Harm,2015/2016,28665
+KZN,Assault With The Intent To Inflict Grievous Bodily Harm,2016/2017,26824
+KZN,Assault With The Intent To Inflict Grievous Bodily Harm,2017/2018,26693
+KZN,Assault With The Intent To Inflict Grievous Bodily Harm,2018/2019,26878
+KZN,Assault With The Intent To Inflict Grievous Bodily Harm,2019/2020,27418
+KZN,Assault With The Intent To Inflict Grievous Bodily Harm,2020/2021,23531
+KZN,Common Assault,2011/2012,31841
+KZN,Common Assault,2012/2013,30087
+KZN,Common Assault,2013/2014,26307
+KZN,Common Assault,2014/2015,24011
+KZN,Common Assault,2015/2016,23703
+KZN,Common Assault,2016/2017,22285
+KZN,Common Assault,2017/2018,22842
+KZN,Common Assault,2018/2019,23521
+KZN,Common Assault,2019/2020,24900
+KZN,Common Assault,2020/2021,21480
+KZN,Common Robbery,2011/2012,7586
+KZN,Common Robbery,2012/2013,8188
+KZN,Common Robbery,2013/2014,8397
+KZN,Common Robbery,2014/2015,7857
+KZN,Common Robbery,2015/2016,7524
+KZN,Common Robbery,2016/2017,7305
+KZN,Common Robbery,2017/2018,6596
+KZN,Common Robbery,2018/2019,7090
+KZN,Common Robbery,2019/2020,7183
+KZN,Common Robbery,2020/2021,5459
+KZN,Robbery With Aggravating Circumstances,2011/2012,18417
+KZN,Robbery With Aggravating Circumstances,2012/2013,19923
+KZN,Robbery With Aggravating Circumstances,2013/2014,20957
+KZN,Robbery With Aggravating Circumstances,2014/2015,20881
+KZN,Robbery With Aggravating Circumstances,2015/2016,21061
+KZN,Robbery With Aggravating Circumstances,2016/2017,22327
+KZN,Robbery With Aggravating Circumstances,2017/2018,21543
+KZN,Robbery With Aggravating Circumstances,2018/2019,22110
+KZN,Robbery With Aggravating Circumstances,2019/2020,22824
+KZN,Robbery With Aggravating Circumstances,2020/2021,20964
+LIM,Murder,2011/2012,734
+LIM,Murder,2012/2013,701
+LIM,Murder,2013/2014,728
+LIM,Murder,2014/2015,777
+LIM,Murder,2015/2016,898
+LIM,Murder,2016/2017,813
+LIM,Murder,2017/2018,911
+LIM,Murder,2018/2019,914
+LIM,Murder,2019/2020,882
+LIM,Murder,2020/2021,717
+LIM,Sexual Offences,2011/2012,4836
+LIM,Sexual Offences,2012/2013,4866
+LIM,Sexual Offences,2013/2014,4423
+LIM,Sexual Offences,2014/2015,4312
+LIM,Sexual Offences,2015/2016,4369
+LIM,Sexual Offences,2016/2017,3828
+LIM,Sexual Offences,2017/2018,3862
+LIM,Sexual Offences,2018/2019,4060
+LIM,Sexual Offences,2019/2020,3990
+LIM,Sexual Offences,2020/2021,3720
+LIM,Attempted Murder,2011/2012,696
+LIM,Attempted Murder,2012/2013,701
+LIM,Attempted Murder,2013/2014,748
+LIM,Attempted Murder,2014/2015,793
+LIM,Attempted Murder,2015/2016,875
+LIM,Attempted Murder,2016/2017,829
+LIM,Attempted Murder,2017/2018,884
+LIM,Attempted Murder,2018/2019,834
+LIM,Attempted Murder,2019/2020,794
+LIM,Attempted Murder,2020/2021,741
+LIM,Assault With The Intent To Inflict Grievous Bodily Harm,2011/2012,14663
+LIM,Assault With The Intent To Inflict Grievous Bodily Harm,2012/2013,13710
+LIM,Assault With The Intent To Inflict Grievous Bodily Harm,2013/2014,12645
+LIM,Assault With The Intent To Inflict Grievous Bodily Harm,2014/2015,13511
+LIM,Assault With The Intent To Inflict Grievous Bodily Harm,2015/2016,14143
+LIM,Assault With The Intent To Inflict Grievous Bodily Harm,2016/2017,12948
+LIM,Assault With The Intent To Inflict Grievous Bodily Harm,2017/2018,12005
+LIM,Assault With The Intent To Inflict Grievous Bodily Harm,2018/2019,12116
+LIM,Assault With The Intent To Inflict Grievous Bodily Harm,2019/2020,11368
+LIM,Assault With The Intent To Inflict Grievous Bodily Harm,2020/2021,9976
+LIM,Common Assault,2011/2012,10475
+LIM,Common Assault,2012/2013,9570
+LIM,Common Assault,2013/2014,9044
+LIM,Common Assault,2014/2015,9073
+LIM,Common Assault,2015/2016,9838
+LIM,Common Assault,2016/2017,8373
+LIM,Common Assault,2017/2018,7519
+LIM,Common Assault,2018/2019,7428
+LIM,Common Assault,2019/2020,7381
+LIM,Common Assault,2020/2021,7645
+LIM,Common Robbery,2011/2012,3770
+LIM,Common Robbery,2012/2013,3321
+LIM,Common Robbery,2013/2014,3202
+LIM,Common Robbery,2014/2015,3382
+LIM,Common Robbery,2015/2016,3545
+LIM,Common Robbery,2016/2017,3228
+LIM,Common Robbery,2017/2018,2839
+LIM,Common Robbery,2018/2019,2908
+LIM,Common Robbery,2019/2020,2899
+LIM,Common Robbery,2020/2021,2216
+LIM,Robbery With Aggravating Circumstances,2011/2012,3652
+LIM,Robbery With Aggravating Circumstances,2012/2013,3917
+LIM,Robbery With Aggravating Circumstances,2013/2014,5163
+LIM,Robbery With Aggravating Circumstances,2014/2015,6123
+LIM,Robbery With Aggravating Circumstances,2015/2016,6723
+LIM,Robbery With Aggravating Circumstances,2016/2017,6745
+LIM,Robbery With Aggravating Circumstances,2017/2018,7048
+LIM,Robbery With Aggravating Circumstances,2018/2019,7006
+LIM,Robbery With Aggravating Circumstances,2019/2020,7466
+LIM,Robbery With Aggravating Circumstances,2020/2021,6105
+MP,Murder,2011/2012,726
+MP,Murder,2012/2013,693
+MP,Murder,2013/2014,806
+MP,Murder,2014/2015,831
+MP,Murder,2015/2016,859
+MP,Murder,2016/2017,954
+MP,Murder,2017/2018,922
+MP,Murder,2018/2019,996
+MP,Murder,2019/2020,1046
+MP,Murder,2020/2021,935
+MP,Sexual Offences,2011/2012,3955
+MP,Sexual Offences,2012/2013,4065
+MP,Sexual Offences,2013/2014,3797
+MP,Sexual Offences,2014/2015,3474
+MP,Sexual Offences,2015/2016,3331
+MP,Sexual Offences,2016/2017,3216
+MP,Sexual Offences,2017/2018,3198
+MP,Sexual Offences,2018/2019,3470
+MP,Sexual Offences,2019/2020,3513
+MP,Sexual Offences,2020/2021,3134
+MP,Attempted Murder,2011/2012,763
+MP,Attempted Murder,2012/2013,721
+MP,Attempted Murder,2013/2014,764
+MP,Attempted Murder,2014/2015,703
+MP,Attempted Murder,2015/2016,797
+MP,Attempted Murder,2016/2017,951
+MP,Attempted Murder,2017/2018,897
+MP,Attempted Murder,2018/2019,1090
+MP,Attempted Murder,2019/2020,1108
+MP,Attempted Murder,2020/2021,1016
+MP,Assault With The Intent To Inflict Grievous Bodily Harm,2011/2012,13025
+MP,Assault With The Intent To Inflict Grievous Bodily Harm,2012/2013,11657
+MP,Assault With The Intent To Inflict Grievous Bodily Harm,2013/2014,10712
+MP,Assault With The Intent To Inflict Grievous Bodily Harm,2014/2015,10778
+MP,Assault With The Intent To Inflict Grievous Bodily Harm,2015/2016,11359
+MP,Assault With The Intent To Inflict Grievous Bodily Harm,2016/2017,10896
+MP,Assault With The Intent To Inflict Grievous Bodily Harm,2017/2018,10690
+MP,Assault With The Intent To Inflict Grievous Bodily Harm,2018/2019,11407
+MP,Assault With The Intent To Inflict Grievous Bodily Harm,2019/2020,11250
+MP,Assault With The Intent To Inflict Grievous Bodily Harm,2020/2021,9682
+MP,Common Assault,2011/2012,9187
+MP,Common Assault,2012/2013,8211
+MP,Common Assault,2013/2014,7467
+MP,Common Assault,2014/2015,7510
+MP,Common Assault,2015/2016,7649
+MP,Common Assault,2016/2017,7712
+MP,Common Assault,2017/2018,7641
+MP,Common Assault,2018/2019,8204
+MP,Common Assault,2019/2020,8423
+MP,Common Assault,2020/2021,7857
+MP,Common Robbery,2011/2012,3324
+MP,Common Robbery,2012/2013,3147
+MP,Common Robbery,2013/2014,2977
+MP,Common Robbery,2014/2015,2934
+MP,Common Robbery,2015/2016,2746
+MP,Common Robbery,2016/2017,2950
+MP,Common Robbery,2017/2018,2541
+MP,Common Robbery,2018/2019,2627
+MP,Common Robbery,2019/2020,2610
+MP,Common Robbery,2020/2021,1860
+MP,Robbery With Aggravating Circumstances,2011/2012,5681
+MP,Robbery With Aggravating Circumstances,2012/2013,5198
+MP,Robbery With Aggravating Circumstances,2013/2014,5252
+MP,Robbery With Aggravating Circumstances,2014/2015,5656
+MP,Robbery With Aggravating Circumstances,2015/2016,5996
+MP,Robbery With Aggravating Circumstances,2016/2017,6702
+MP,Robbery With Aggravating Circumstances,2017/2018,6757
+MP,Robbery With Aggravating Circumstances,2018/2019,7091
+MP,Robbery With Aggravating Circumstances,2019/2020,7672
+MP,Robbery With Aggravating Circumstances,2020/2021,7004
+NW,Murder,2011/2012,799
+NW,Murder,2012/2013,867
+NW,Murder,2013/2014,824
+NW,Murder,2014/2015,853
+NW,Murder,2015/2016,907
+NW,Murder,2016/2017,901
+NW,Murder,2017/2018,950
+NW,Murder,2018/2019,961
+NW,Murder,2019/2020,864
+NW,Murder,2020/2021,734
+NW,Sexual Offences,2011/2012,4885
+NW,Sexual Offences,2012/2013,5228
+NW,Sexual Offences,2013/2014,4616
+NW,Sexual Offences,2014/2015,4585
+NW,Sexual Offences,2015/2016,4164
+NW,Sexual Offences,2016/2017,4326
+NW,Sexual Offences,2017/2018,4182
+NW,Sexual Offences,2018/2019,4021
+NW,Sexual Offences,2019/2020,3824
+NW,Sexual Offences,2020/2021,3262
+NW,Attempted Murder,2011/2012,762
+NW,Attempted Murder,2012/2013,912
+NW,Attempted Murder,2013/2014,1069
+NW,Attempted Murder,2014/2015,984
+NW,Attempted Murder,2015/2016,899
+NW,Attempted Murder,2016/2017,898
+NW,Attempted Murder,2017/2018,864
+NW,Attempted Murder,2018/2019,857
+NW,Attempted Murder,2019/2020,765
+NW,Attempted Murder,2020/2021,799
+NW,Assault With The Intent To Inflict Grievous Bodily Harm,2011/2012,14193
+NW,Assault With The Intent To Inflict Grievous Bodily Harm,2012/2013,14189
+NW,Assault With The Intent To Inflict Grievous Bodily Harm,2013/2014,13464
+NW,Assault With The Intent To Inflict Grievous Bodily Harm,2014/2015,13334
+NW,Assault With The Intent To Inflict Grievous Bodily Harm,2015/2016,13614
+NW,Assault With The Intent To Inflict Grievous Bodily Harm,2016/2017,12731
+NW,Assault With The Intent To Inflict Grievous Bodily Harm,2017/2018,13131
+NW,Assault With The Intent To Inflict Grievous Bodily Harm,2018/2019,13250
+NW,Assault With The Intent To Inflict Grievous Bodily Harm,2019/2020,12712
+NW,Assault With The Intent To Inflict Grievous Bodily Harm,2020/2021,11003
+NW,Common Assault,2011/2012,7634
+NW,Common Assault,2012/2013,7194
+NW,Common Assault,2013/2014,6750
+NW,Common Assault,2014/2015,6930
+NW,Common Assault,2015/2016,6942
+NW,Common Assault,2016/2017,7021
+NW,Common Assault,2017/2018,7828
+NW,Common Assault,2018/2019,8611
+NW,Common Assault,2019/2020,8733
+NW,Common Assault,2020/2021,8098
+NW,Common Robbery,2011/2012,2473
+NW,Common Robbery,2012/2013,2406
+NW,Common Robbery,2013/2014,2341
+NW,Common Robbery,2014/2015,2419
+NW,Common Robbery,2015/2016,2417
+NW,Common Robbery,2016/2017,2589
+NW,Common Robbery,2017/2018,2824
+NW,Common Robbery,2018/2019,2764
+NW,Common Robbery,2019/2020,2581
+NW,Common Robbery,2020/2021,2007
+NW,Robbery With Aggravating Circumstances,2011/2012,5366
+NW,Robbery With Aggravating Circumstances,2012/2013,5271
+NW,Robbery With Aggravating Circumstances,2013/2014,5409
+NW,Robbery With Aggravating Circumstances,2014/2015,5977
+NW,Robbery With Aggravating Circumstances,2015/2016,6281
+NW,Robbery With Aggravating Circumstances,2016/2017,7017
+NW,Robbery With Aggravating Circumstances,2017/2018,6825
+NW,Robbery With Aggravating Circumstances,2018/2019,7023
+NW,Robbery With Aggravating Circumstances,2019/2020,6807
+NW,Robbery With Aggravating Circumstances,2020/2021,5733
+NC,Murder,2011/2012,366
+NC,Murder,2012/2013,412
+NC,Murder,2013/2014,437
+NC,Murder,2014/2015,413
+NC,Murder,2015/2016,372
+NC,Murder,2016/2017,344
+NC,Murder,2017/2018,340
+NC,Murder,2018/2019,322
+NC,Murder,2019/2020,326
+NC,Murder,2020/2021,287
+NC,Sexual Offences,2011/2012,1722
+NC,Sexual Offences,2012/2013,1826
+NC,Sexual Offences,2013/2014,1731
+NC,Sexual Offences,2014/2015,1578
+NC,Sexual Offences,2015/2016,1719
+NC,Sexual Offences,2016/2017,1587
+NC,Sexual Offences,2017/2018,1538
+NC,Sexual Offences,2018/2019,1578
+NC,Sexual Offences,2019/2020,1590
+NC,Sexual Offences,2020/2021,1295
+NC,Attempted Murder,2011/2012,548
+NC,Attempted Murder,2012/2013,543
+NC,Attempted Murder,2013/2014,603
+NC,Attempted Murder,2014/2015,562
+NC,Attempted Murder,2015/2016,658
+NC,Attempted Murder,2016/2017,550
+NC,Attempted Murder,2017/2018,480
+NC,Attempted Murder,2018/2019,532
+NC,Attempted Murder,2019/2020,468
+NC,Attempted Murder,2020/2021,474
+NC,Assault With The Intent To Inflict Grievous Bodily Harm,2011/2012,8421
+NC,Assault With The Intent To Inflict Grievous Bodily Harm,2012/2013,8664
+NC,Assault With The Intent To Inflict Grievous Bodily Harm,2013/2014,8716
+NC,Assault With The Intent To Inflict Grievous Bodily Harm,2014/2015,8813
+NC,Assault With The Intent To Inflict Grievous Bodily Harm,2015/2016,8889
+NC,Assault With The Intent To Inflict Grievous Bodily Harm,2016/2017,8173
+NC,Assault With The Intent To Inflict Grievous Bodily Harm,2017/2018,7723
+NC,Assault With The Intent To Inflict Grievous Bodily Harm,2018/2019,7790
+NC,Assault With The Intent To Inflict Grievous Bodily Harm,2019/2020,7594
+NC,Assault With The Intent To Inflict Grievous Bodily Harm,2020/2021,6356
+NC,Common Assault,2011/2012,5065
+NC,Common Assault,2012/2013,4896
+NC,Common Assault,2013/2014,4777
+NC,Common Assault,2014/2015,4803
+NC,Common Assault,2015/2016,4598
+NC,Common Assault,2016/2017,4440
+NC,Common Assault,2017/2018,4375
+NC,Common Assault,2018/2019,4481
+NC,Common Assault,2019/2020,4533
+NC,Common Assault,2020/2021,4301
+NC,Common Robbery,2011/2012,949
+NC,Common Robbery,2012/2013,1069
+NC,Common Robbery,2013/2014,1277
+NC,Common Robbery,2014/2015,1262
+NC,Common Robbery,2015/2016,1348
+NC,Common Robbery,2016/2017,1506
+NC,Common Robbery,2017/2018,1285
+NC,Common Robbery,2018/2019,1408
+NC,Common Robbery,2019/2020,1437
+NC,Common Robbery,2020/2021,1170
+NC,Robbery With Aggravating Circumstances,2011/2012,967
+NC,Robbery With Aggravating Circumstances,2012/2013,1239
+NC,Robbery With Aggravating Circumstances,2013/2014,1402
+NC,Robbery With Aggravating Circumstances,2014/2015,1446
+NC,Robbery With Aggravating Circumstances,2015/2016,1387
+NC,Robbery With Aggravating Circumstances,2016/2017,1505
+NC,Robbery With Aggravating Circumstances,2017/2018,1639
+NC,Robbery With Aggravating Circumstances,2018/2019,1780
+NC,Robbery With Aggravating Circumstances,2019/2020,1643
+NC,Robbery With Aggravating Circumstances,2020/2021,1426
+WC,Murder,2011/2012,2293
+WC,Murder,2012/2013,2575
+WC,Murder,2013/2014,2904
+WC,Murder,2014/2015,3186
+WC,Murder,2015/2016,3224
+WC,Murder,2016/2017,3311
+WC,Murder,2017/2018,3729
+WC,Murder,2018/2019,3974
+WC,Murder,2019/2020,3975
+WC,Murder,2020/2021,3848
+WC,Sexual Offences,2011/2012,8809
+WC,Sexual Offences,2012/2013,8440
+WC,Sexual Offences,2013/2014,7760
+WC,Sexual Offences,2014/2015,7369
+WC,Sexual Offences,2015/2016,7130
+WC,Sexual Offences,2016/2017,7115
+WC,Sexual Offences,2017/2018,7075
+WC,Sexual Offences,2018/2019,7043
+WC,Sexual Offences,2019/2020,7303
+WC,Sexual Offences,2020/2021,6437
+WC,Attempted Murder,2011/2012,2310
+WC,Attempted Murder,2012/2013,3268
+WC,Attempted Murder,2013/2014,3345
+WC,Attempted Murder,2014/2015,3727
+WC,Attempted Murder,2015/2016,3444
+WC,Attempted Murder,2016/2017,3387
+WC,Attempted Murder,2017/2018,3698
+WC,Attempted Murder,2018/2019,3860
+WC,Attempted Murder,2019/2020,3555
+WC,Attempted Murder,2020/2021,4143
+WC,Assault With The Intent To Inflict Grievous Bodily Harm,2011/2012,24637
+WC,Assault With The Intent To Inflict Grievous Bodily Harm,2012/2013,24463
+WC,Assault With The Intent To Inflict Grievous Bodily Harm,2013/2014,24806
+WC,Assault With The Intent To Inflict Grievous Bodily Harm,2014/2015,26200
+WC,Assault With The Intent To Inflict Grievous Bodily Harm,2015/2016,25539
+WC,Assault With The Intent To Inflict Grievous Bodily Harm,2016/2017,24417
+WC,Assault With The Intent To Inflict Grievous Bodily Harm,2017/2018,23583
+WC,Assault With The Intent To Inflict Grievous Bodily Harm,2018/2019,24488
+WC,Assault With The Intent To Inflict Grievous Bodily Harm,2019/2020,23753
+WC,Assault With The Intent To Inflict Grievous Bodily Harm,2020/2021,19452
+WC,Common Assault,2011/2012,34423
+WC,Common Assault,2012/2013,35517
+WC,Common Assault,2013/2014,37183
+WC,Common Assault,2014/2015,39150
+WC,Common Assault,2015/2016,41304
+WC,Common Assault,2016/2017,39868
+WC,Common Assault,2017/2018,38579
+WC,Common Assault,2018/2019,39202
+WC,Common Assault,2019/2020,38992
+WC,Common Assault,2020/2021,33857
+WC,Common Robbery,2011/2012,11090
+WC,Common Robbery,2012/2013,12402
+WC,Common Robbery,2013/2014,13107
+WC,Common Robbery,2014/2015,13420
+WC,Common Robbery,2015/2016,12485
+WC,Common Robbery,2016/2017,12574
+WC,Common Robbery,2017/2018,12003
+WC,Common Robbery,2018/2019,11355
+WC,Common Robbery,2019/2020,11381
+WC,Common Robbery,2020/2021,7354
+WC,Robbery With Aggravating Circumstances,2011/2012,13739
+WC,Robbery With Aggravating Circumstances,2012/2013,16681
+WC,Robbery With Aggravating Circumstances,2013/2014,19484
+WC,Robbery With Aggravating Circumstances,2014/2015,23116
+WC,Robbery With Aggravating Circumstances,2015/2016,23732
+WC,Robbery With Aggravating Circumstances,2016/2017,24032
+WC,Robbery With Aggravating Circumstances,2017/2018,24329
+WC,Robbery With Aggravating Circumstances,2018/2019,24065
+WC,Robbery With Aggravating Circumstances,2019/2020,24549
+WC,Robbery With Aggravating Circumstances,2020/2021,19050
+ZA,Murder,2021/2022,25181
+ZA,Sexual Offences,2021/2022,52694
+ZA,Attempted Murder,2021/2022,22095
+ZA,Assault With The Intent To Inflict Grievous Bodily Harm,2021/2022,162842
+ZA,Common Assault,2021/2022,169963
+ZA,Common Robbery,2021/2022,41600
+ZA,Robbery With Aggravating Circumstances,2021/2022,132788
+EC,Murder,2021/2022,4407
+EC,Sexual Offences,2021/2022,8404
+EC,Attempted Murder,2021/2022,2155
+EC,Assault With The Intent To Inflict Grievous Bodily Harm,2021/2022,22933
+EC,Common Assault,2021/2022,13930
+EC,Common Robbery,2021/2022,2836
+EC,Robbery With Aggravating Circumstances,2021/2022,11916
+FS,Murder,2021/2022,992
+FS,Sexual Offences,2021/2022,3416
+FS,Attempted Murder,2021/2022,890
+FS,Assault With The Intent To Inflict Grievous Bodily Harm,2021/2022,10933
+FS,Common Assault,2021/2022,14006
+FS,Common Robbery,2021/2022,1738
+FS,Robbery With Aggravating Circumstances,2021/2022,4381
+GT,Murder,2021/2022,5570
+GT,Sexual Offences,2021/2022,11178
+GT,Attempted Murder,2021/2022,5309
+GT,Assault With The Intent To Inflict Grievous Bodily Harm,2021/2022,37731
+GT,Common Assault,2021/2022,47031
+GT,Common Robbery,2021/2022,14507
+GT,Robbery With Aggravating Circumstances,2021/2022,49700
+KZN,Murder,2021/2022,6495
+KZN,Sexual Offences,2021/2022,9617
+KZN,Attempted Murder,2021/2022,5917
+KZN,Assault With The Intent To Inflict Grievous Bodily Harm,2021/2022,26518
+KZN,Common Assault,2021/2022,24843
+KZN,Common Robbery,2021/2022,6438
+KZN,Robbery With Aggravating Circumstances,2021/2022,23897
+LIM,Murder,2021/2022,1012
+LIM,Sexual Offences,2021/2022,4309
+LIM,Attempted Murder,2021/2022,1102
+LIM,Assault With The Intent To Inflict Grievous Bodily Harm,2021/2022,12192
+LIM,Common Assault,2021/2022,9534
+LIM,Common Robbery,2021/2022,2618
+LIM,Robbery With Aggravating Circumstances,2021/2022,6923
+MP,Murder,2021/2022,1201
+MP,Sexual Offences,2021/2022,3553
+MP,Attempted Murder,2021/2022,1401
+MP,Assault With The Intent To Inflict Grievous Bodily Harm,2021/2022,10588
+MP,Common Assault,2021/2022,8481
+MP,Common Robbery,2021/2022,2011
+MP,Robbery With Aggravating Circumstances,2021/2022,8864
+NW,Murder,2021/2022,1029
+NW,Sexual Offences,2021/2022,3737
+NW,Attempted Murder,2021/2022,872
+NW,Assault With The Intent To Inflict Grievous Bodily Harm,2021/2022,13029
+NW,Common Assault,2021/2022,9391
+NW,Common Robbery,2021/2022,2232
+NW,Robbery With Aggravating Circumstances,2021/2022,6492
+NC,Murder,2021/2022,366
+NC,Sexual Offences,2021/2022,1317
+NC,Attempted Murder,2021/2022,780
+NC,Assault With The Intent To Inflict Grievous Bodily Harm,2021/2022,7017
+NC,Common Assault,2021/2022,5045
+NC,Common Robbery,2021/2022,999
+NC,Robbery With Aggravating Circumstances,2021/2022,1323
+WC,Murder,2021/2022,4109
+WC,Sexual Offences,2021/2022,7163
+WC,Attempted Murder,2021/2022,3669
+WC,Assault With The Intent To Inflict Grievous Bodily Harm,2021/2022,21901
+WC,Common Assault,2021/2022,37702
+WC,Common Robbery,2021/2022,8221
+WC,Robbery With Aggravating Circumstances,2021/2022,19292
+ZA,Murder,2022/2023,27272
+ZA,Sexual Offences,2022/2023,53888
+ZA,Attempted Murder,2022/2023,24939
+ZA,Assault With The Intent To Inflict Grievous Bodily Harm,2022/2023,169558
+ZA,Robbery With Aggravating Circumstances,2022/2023,145934
+EC,Murder,2022/2023,5126
+EC,Sexual Offences,2022/2023,8361
+EC,Attempted Murder,2022/2023,2527
+EC,Assault With The Intent To Inflict Grievous Bodily Harm,2022/2023,24244
+EC,Robbery With Aggravating Circumstances,2022/2023,12984
+FS,Murder,2022/2023,970
+FS,Sexual Offences,2022/2023,3442
+FS,Attempted Murder,2022/2023,1319
+FS,Assault With The Intent To Inflict Grievous Bodily Harm,2022/2023,12033
+FS,Robbery With Aggravating Circumstances,2022/2023,4599
+GT,Murder,2022/2023,6346
+GT,Sexual Offences,2022/2023,11160
+GT,Attempted Murder,2022/2023,6119
+GT,Assault With The Intent To Inflict Grievous Bodily Harm,2022/2023,38178
+GT,Robbery With Aggravating Circumstances,2022/2023,53558
+KZN,Murder,2022/2023,6890
+KZN,Sexual Offences,2022/2023,10160
+KZN,Attempted Murder,2022/2023,6243
+KZN,Assault With The Intent To Inflict Grievous Bodily Harm,2022/2023,26479
+KZN,Robbery With Aggravating Circumstances,2022/2023,26729
+LIM,Murder,2022/2023,998
+LIM,Sexual Offences,2022/2023,4715
+LIM,Attempted Murder,2022/2023,1081
+LIM,Assault With The Intent To Inflict Grievous Bodily Harm,2022/2023,13215
+LIM,Robbery With Aggravating Circumstances,2022/2023,8013
+MP,Murder,2022/2023,1335
+MP,Sexual Offences,2022/2023,3321
+MP,Attempted Murder,2022/2023,1421
+MP,Assault With The Intent To Inflict Grievous Bodily Harm,2022/2023,10758
+MP,Robbery With Aggravating Circumstances,2022/2023,8953
+NW,Murder,2022/2023,1102
+NW,Sexual Offences,2022/2023,3888
+NW,Attempted Murder,2022/2023,1029
+NW,Assault With The Intent To Inflict Grievous Bodily Harm,2022/2023,14388
+NW,Robbery With Aggravating Circumstances,2022/2023,7097
+NC,Murder,2022/2023,391
+NC,Sexual Offences,2022/2023,1531
+NC,Attempted Murder,2022/2023,1697
+NC,Assault With The Intent To Inflict Grievous Bodily Harm,2022/2023,6803
+NC,Robbery With Aggravating Circumstances,2022/2023,1571
+WC,Murder,2022/2023,4114
+WC,Sexual Offences,2022/2023,7310
+WC,Attempted Murder,2022/2023,3503
+WC,Assault With The Intent To Inflict Grievous Bodily Harm,2022/2023,23460
+WC,Robbery With Aggravating Circumstances,2022/2023,22430
+ZA,Common Assault,2022/2023,184983
+ZA,Common Robbery,2022/2023,47085
+EC,Common Assault,2022/2023,15039
+EC,Common Robbery,2022/2023,2910
+FS,Common Assault,2022/2023,15518
+FS,Common Robbery,2022/2023,1948
+GT,Common Assault,2022/2023,50805
+GT,Common Robbery,2022/2023,15671
+KZN,Common Assault,2022/2023,25844
+KZN,Common Robbery,2022/2023,7571
+LIM,Common Assault,2022/2023,10883
+LIM,Common Robbery,2022/2023,3237
+MP,Common Assault,2022/2023,8757
+MP,Common Robbery,2022/2023,2020
+NW,Common Assault,2022/2023,10588
+NW,Common Robbery,2022/2023,2550
+NC,Common Assault,2022/2023,5732
+NC,Common Robbery,2022/2023,1105
+WC,Common Assault,2022/2023,41817
+WC,Common Robbery,2022/2023,10073

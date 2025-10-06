@@ -1,0 +1,481 @@
+Geography,Sexual Offence,Financial Year,Count
+ZA,Rape,2011/2012,47069
+ZA,Rape,2012/2013,48408
+ZA,Rape,2013/2014,45349
+ZA,Rape,2014/2015,43195
+ZA,Rape,2015/2016,41503
+ZA,Rape,2016/2017,39828
+ZA,Rape,2017/2018,40035
+ZA,Rape,2018/2019,41583
+ZA,Rape,2019/2020,42289
+ZA,Rape,2020/2021,36330
+ZA,Sexual Assault,2011/2012,7194
+ZA,Sexual Assault,2012/2013,6967
+ZA,Sexual Assault,2013/2014,6597
+ZA,Sexual Assault,2014/2015,6087
+ZA,Sexual Assault,2015/2016,6212
+ZA,Sexual Assault,2016/2017,6271
+ZA,Sexual Assault,2017/2018,6786
+ZA,Sexual Assault,2018/2019,7437
+ZA,Sexual Assault,2019/2020,7749
+ZA,Sexual Assault,2020/2021,7025
+ZA,Attempted Sexual Offences,2011/2012,3535
+ZA,Attempted Sexual Offences,2012/2013,3293
+ZA,Attempted Sexual Offences,2013/2014,2913
+ZA,Attempted Sexual Offences,2014/2015,2641
+ZA,Attempted Sexual Offences,2015/2016,2573
+ZA,Attempted Sexual Offences,2016/2017,2073
+ZA,Attempted Sexual Offences,2017/2018,2066
+ZA,Attempted Sexual Offences,2018/2019,2146
+ZA,Attempted Sexual Offences,2019/2020,2076
+ZA,Attempted Sexual Offences,2020/2021,1800
+ZA,Contact Sexual Offences,2011/2012,2741
+ZA,Contact Sexual Offences,2012/2013,2220
+ZA,Contact Sexual Offences,2013/2014,1821
+ZA,Contact Sexual Offences,2014/2015,1694
+ZA,Contact Sexual Offences,2015/2016,1607
+ZA,Contact Sexual Offences,2016/2017,1488
+ZA,Contact Sexual Offences,2017/2018,1221
+ZA,Contact Sexual Offences,2018/2019,1254
+ZA,Contact Sexual Offences,2019/2020,1179
+ZA,Contact Sexual Offences,2020/2021,1059
+EC,Rape,2011/2012,7301
+EC,Rape,2012/2013,7701
+EC,Rape,2013/2014,8212
+EC,Rape,2014/2015,7934
+EC,Rape,2015/2016,7437
+EC,Rape,2016/2017,6836
+EC,Rape,2017/2018,6821
+EC,Rape,2018/2019,7305
+EC,Rape,2019/2020,7282
+EC,Rape,2020/2021,6114
+EC,Sexual Assault,2011/2012,682
+EC,Sexual Assault,2012/2013,741
+EC,Sexual Assault,2013/2014,692
+EC,Sexual Assault,2014/2015,636
+EC,Sexual Assault,2015/2016,747
+EC,Sexual Assault,2016/2017,753
+EC,Sexual Assault,2017/2018,805
+EC,Sexual Assault,2018/2019,890
+EC,Sexual Assault,2019/2020,896
+EC,Sexual Assault,2020/2021,891
+EC,Attempted Sexual Offences,2011/2012,688
+EC,Attempted Sexual Offences,2012/2013,603
+EC,Attempted Sexual Offences,2013/2014,509
+EC,Attempted Sexual Offences,2014/2015,440
+EC,Attempted Sexual Offences,2015/2016,430
+EC,Attempted Sexual Offences,2016/2017,301
+EC,Attempted Sexual Offences,2017/2018,318
+EC,Attempted Sexual Offences,2018/2019,388
+EC,Attempted Sexual Offences,2019/2020,396
+EC,Attempted Sexual Offences,2020/2021,320
+EC,Contact Sexual Offences,2011/2012,330
+EC,Contact Sexual Offences,2012/2013,243
+EC,Contact Sexual Offences,2013/2014,203
+EC,Contact Sexual Offences,2014/2015,214
+EC,Contact Sexual Offences,2015/2016,183
+EC,Contact Sexual Offences,2016/2017,160
+EC,Contact Sexual Offences,2017/2018,150
+EC,Contact Sexual Offences,2018/2019,148
+EC,Contact Sexual Offences,2019/2020,134
+EC,Contact Sexual Offences,2020/2021,120
+FS,Rape,2011/2012,3622
+FS,Rape,2012/2013,4022
+FS,Rape,2013/2014,3629
+FS,Rape,2014/2015,3290
+FS,Rape,2015/2016,3059
+FS,Rape,2016/2017,2702
+FS,Rape,2017/2018,2573
+FS,Rape,2018/2019,2646
+FS,Rape,2019/2020,2936
+FS,Rape,2020/2021,2258
+FS,Sexual Assault,2011/2012,649
+FS,Sexual Assault,2012/2013,587
+FS,Sexual Assault,2013/2014,553
+FS,Sexual Assault,2014/2015,441
+FS,Sexual Assault,2015/2016,484
+FS,Sexual Assault,2016/2017,474
+FS,Sexual Assault,2017/2018,435
+FS,Sexual Assault,2018/2019,517
+FS,Sexual Assault,2019/2020,540
+FS,Sexual Assault,2020/2021,489
+FS,Attempted Sexual Offences,2011/2012,303
+FS,Attempted Sexual Offences,2012/2013,277
+FS,Attempted Sexual Offences,2013/2014,226
+FS,Attempted Sexual Offences,2014/2015,208
+FS,Attempted Sexual Offences,2015/2016,232
+FS,Attempted Sexual Offences,2016/2017,154
+FS,Attempted Sexual Offences,2017/2018,153
+FS,Attempted Sexual Offences,2018/2019,173
+FS,Attempted Sexual Offences,2019/2020,163
+FS,Attempted Sexual Offences,2020/2021,140
+FS,Contact Sexual Offences,2011/2012,211
+FS,Contact Sexual Offences,2012/2013,212
+FS,Contact Sexual Offences,2013/2014,176
+FS,Contact Sexual Offences,2014/2015,155
+FS,Contact Sexual Offences,2015/2016,153
+FS,Contact Sexual Offences,2016/2017,158
+FS,Contact Sexual Offences,2017/2018,123
+FS,Contact Sexual Offences,2018/2019,121
+FS,Contact Sexual Offences,2019/2020,107
+FS,Contact Sexual Offences,2020/2021,84
+GT,Rape,2011/2012,8970
+GT,Rape,2012/2013,8714
+GT,Rape,2013/2014,8141
+GT,Rape,2014/2015,7916
+GT,Rape,2015/2016,7605
+GT,Rape,2016/2017,7700
+GT,Rape,2017/2018,8062
+GT,Rape,2018/2019,8417
+GT,Rape,2019/2020,8509
+GT,Rape,2020/2021,7525
+GT,Sexual Assault,2011/2012,1247
+GT,Sexual Assault,2012/2013,1374
+GT,Sexual Assault,2013/2014,1249
+GT,Sexual Assault,2014/2015,1228
+GT,Sexual Assault,2015/2016,1214
+GT,Sexual Assault,2016/2017,1277
+GT,Sexual Assault,2017/2018,1511
+GT,Sexual Assault,2018/2019,1733
+GT,Sexual Assault,2019/2020,1775
+GT,Sexual Assault,2020/2021,1750
+GT,Attempted Sexual Offences,2011/2012,594
+GT,Attempted Sexual Offences,2012/2013,527
+GT,Attempted Sexual Offences,2013/2014,429
+GT,Attempted Sexual Offences,2014/2015,431
+GT,Attempted Sexual Offences,2015/2016,353
+GT,Attempted Sexual Offences,2016/2017,286
+GT,Attempted Sexual Offences,2017/2018,314
+GT,Attempted Sexual Offences,2018/2019,332
+GT,Attempted Sexual Offences,2019/2020,249
+GT,Attempted Sexual Offences,2020/2021,229
+GT,Contact Sexual Offences,2011/2012,701
+GT,Contact Sexual Offences,2012/2013,498
+GT,Contact Sexual Offences,2013/2014,445
+GT,Contact Sexual Offences,2014/2015,327
+GT,Contact Sexual Offences,2015/2016,338
+GT,Contact Sexual Offences,2016/2017,303
+GT,Contact Sexual Offences,2017/2018,229
+GT,Contact Sexual Offences,2018/2019,270
+GT,Contact Sexual Offences,2019/2020,277
+GT,Contact Sexual Offences,2020/2021,245
+KZN,Rape,2011/2012,8798
+KZN,Rape,2012/2013,8861
+KZN,Rape,2013/2014,8001
+KZN,Rape,2014/2015,7427
+KZN,Rape,2015/2016,7307
+KZN,Rape,2016/2017,7032
+KZN,Rape,2017/2018,7243
+KZN,Rape,2018/2019,7667
+KZN,Rape,2019/2020,8017
+KZN,Rape,2020/2021,6685
+KZN,Sexual Assault,2011/2012,1457
+KZN,Sexual Assault,2012/2013,1386
+KZN,Sexual Assault,2013/2014,1336
+KZN,Sexual Assault,2014/2015,1138
+KZN,Sexual Assault,2015/2016,1157
+KZN,Sexual Assault,2016/2017,1039
+KZN,Sexual Assault,2017/2018,1148
+KZN,Sexual Assault,2018/2019,1266
+KZN,Sexual Assault,2019/2020,1367
+KZN,Sexual Assault,2020/2021,1172
+KZN,Attempted Sexual Offences,2011/2012,382
+KZN,Attempted Sexual Offences,2012/2013,352
+KZN,Attempted Sexual Offences,2013/2014,290
+KZN,Attempted Sexual Offences,2014/2015,274
+KZN,Attempted Sexual Offences,2015/2016,271
+KZN,Attempted Sexual Offences,2016/2017,226
+KZN,Attempted Sexual Offences,2017/2018,204
+KZN,Attempted Sexual Offences,2018/2019,235
+KZN,Attempted Sexual Offences,2019/2020,251
+KZN,Attempted Sexual Offences,2020/2021,180
+KZN,Contact Sexual Offences,2011/2012,397
+KZN,Contact Sexual Offences,2012/2013,365
+KZN,Contact Sexual Offences,2013/2014,262
+KZN,Contact Sexual Offences,2014/2015,240
+KZN,Contact Sexual Offences,2015/2016,212
+KZN,Contact Sexual Offences,2016/2017,187
+KZN,Contact Sexual Offences,2017/2018,164
+KZN,Contact Sexual Offences,2018/2019,140
+KZN,Contact Sexual Offences,2019/2020,174
+KZN,Contact Sexual Offences,2020/2021,164
+LIM,Rape,2011/2012,4045
+LIM,Rape,2012/2013,4109
+LIM,Rape,2013/2014,3769
+LIM,Rape,2014/2015,3725
+LIM,Rape,2015/2016,3731
+LIM,Rape,2016/2017,3321
+LIM,Rape,2017/2018,3301
+LIM,Rape,2018/2019,3501
+LIM,Rape,2019/2020,3436
+LIM,Rape,2020/2021,3126
+LIM,Sexual Assault,2011/2012,257
+LIM,Sexual Assault,2012/2013,290
+LIM,Sexual Assault,2013/2014,269
+LIM,Sexual Assault,2014/2015,245
+LIM,Sexual Assault,2015/2016,245
+LIM,Sexual Assault,2016/2017,240
+LIM,Sexual Assault,2017/2018,303
+LIM,Sexual Assault,2018/2019,292
+LIM,Sexual Assault,2019/2020,316
+LIM,Sexual Assault,2020/2021,358
+LIM,Attempted Sexual Offences,2011/2012,342
+LIM,Attempted Sexual Offences,2012/2013,314
+LIM,Attempted Sexual Offences,2013/2014,299
+LIM,Attempted Sexual Offences,2014/2015,262
+LIM,Attempted Sexual Offences,2015/2016,258
+LIM,Attempted Sexual Offences,2016/2017,195
+LIM,Attempted Sexual Offences,2017/2018,195
+LIM,Attempted Sexual Offences,2018/2019,196
+LIM,Attempted Sexual Offences,2019/2020,190
+LIM,Attempted Sexual Offences,2020/2021,177
+LIM,Contact Sexual Offences,2011/2012,192
+LIM,Contact Sexual Offences,2012/2013,153
+LIM,Contact Sexual Offences,2013/2014,86
+LIM,Contact Sexual Offences,2014/2015,80
+LIM,Contact Sexual Offences,2015/2016,135
+LIM,Contact Sexual Offences,2016/2017,72
+LIM,Contact Sexual Offences,2017/2018,63
+LIM,Contact Sexual Offences,2018/2019,71
+LIM,Contact Sexual Offences,2019/2020,48
+LIM,Contact Sexual Offences,2020/2021,59
+MP,Rape,2011/2012,3272
+MP,Rape,2012/2013,3486
+MP,Rape,2013/2014,3251
+MP,Rape,2014/2015,3000
+MP,Rape,2015/2016,2844
+MP,Rape,2016/2017,2708
+MP,Rape,2017/2018,2712
+MP,Rape,2018/2019,2903
+MP,Rape,2019/2020,2971
+MP,Rape,2020/2021,2611
+MP,Sexual Assault,2011/2012,251
+MP,Sexual Assault,2012/2013,241
+MP,Sexual Assault,2013/2014,243
+MP,Sexual Assault,2014/2015,221
+MP,Sexual Assault,2015/2016,244
+MP,Sexual Assault,2016/2017,264
+MP,Sexual Assault,2017/2018,282
+MP,Sexual Assault,2018/2019,384
+MP,Sexual Assault,2019/2020,371
+MP,Sexual Assault,2020/2021,362
+MP,Attempted Sexual Offences,2011/2012,253
+MP,Attempted Sexual Offences,2012/2013,216
+MP,Attempted Sexual Offences,2013/2014,198
+MP,Attempted Sexual Offences,2014/2015,174
+MP,Attempted Sexual Offences,2015/2016,161
+MP,Attempted Sexual Offences,2016/2017,146
+MP,Attempted Sexual Offences,2017/2018,119
+MP,Attempted Sexual Offences,2018/2019,117
+MP,Attempted Sexual Offences,2019/2020,105
+MP,Attempted Sexual Offences,2020/2021,99
+MP,Contact Sexual Offences,2011/2012,179
+MP,Contact Sexual Offences,2012/2013,122
+MP,Contact Sexual Offences,2013/2014,105
+MP,Contact Sexual Offences,2014/2015,79
+MP,Contact Sexual Offences,2015/2016,82
+MP,Contact Sexual Offences,2016/2017,98
+MP,Contact Sexual Offences,2017/2018,85
+MP,Contact Sexual Offences,2018/2019,66
+MP,Contact Sexual Offences,2019/2020,66
+MP,Contact Sexual Offences,2020/2021,62
+NW,Rape,2011/2012,3928
+NW,Rape,2012/2013,4331
+NW,Rape,2013/2014,3829
+NW,Rape,2014/2015,3771
+NW,Rape,2015/2016,3433
+NW,Rape,2016/2017,3615
+NW,Rape,2017/2018,3479
+NW,Rape,2018/2019,3374
+NW,Rape,2019/2020,3136
+NW,Rape,2020/2021,2661
+NW,Sexual Assault,2011/2012,410
+NW,Sexual Assault,2012/2013,379
+NW,Sexual Assault,2013/2014,301
+NW,Sexual Assault,2014/2015,310
+NW,Sexual Assault,2015/2016,305
+NW,Sexual Assault,2016/2017,319
+NW,Sexual Assault,2017/2018,347
+NW,Sexual Assault,2018/2019,343
+NW,Sexual Assault,2019/2020,345
+NW,Sexual Assault,2020/2021,356
+NW,Attempted Sexual Offences,2011/2012,380
+NW,Attempted Sexual Offences,2012/2013,374
+NW,Attempted Sexual Offences,2013/2014,368
+NW,Attempted Sexual Offences,2014/2015,315
+NW,Attempted Sexual Offences,2015/2016,284
+NW,Attempted Sexual Offences,2016/2017,246
+NW,Attempted Sexual Offences,2017/2018,261
+NW,Attempted Sexual Offences,2018/2019,214
+NW,Attempted Sexual Offences,2019/2020,262
+NW,Attempted Sexual Offences,2020/2021,192
+NW,Contact Sexual Offences,2011/2012,167
+NW,Contact Sexual Offences,2012/2013,144
+NW,Contact Sexual Offences,2013/2014,118
+NW,Contact Sexual Offences,2014/2015,189
+NW,Contact Sexual Offences,2015/2016,142
+NW,Contact Sexual Offences,2016/2017,146
+NW,Contact Sexual Offences,2017/2018,95
+NW,Contact Sexual Offences,2018/2019,90
+NW,Contact Sexual Offences,2019/2020,81
+NW,Contact Sexual Offences,2020/2021,53
+NC,Rape,2011/2012,1209
+NC,Rape,2012/2013,1323
+NC,Rape,2013/2014,1267
+NC,Rape,2014/2015,1181
+NC,Rape,2015/2016,1287
+NC,Rape,2016/2017,1143
+NC,Rape,2017/2018,1100
+NC,Rape,2018/2019,1121
+NC,Rape,2019/2020,1125
+NC,Rape,2020/2021,908
+NC,Sexual Assault,2011/2012,266
+NC,Sexual Assault,2012/2013,240
+NC,Sexual Assault,2013/2014,249
+NC,Sexual Assault,2014/2015,228
+NC,Sexual Assault,2015/2016,240
+NC,Sexual Assault,2016/2017,235
+NC,Sexual Assault,2017/2018,245
+NC,Sexual Assault,2018/2019,255
+NC,Sexual Assault,2019/2020,229
+NC,Sexual Assault,2020/2021,207
+NC,Attempted Sexual Offences,2011/2012,183
+NC,Attempted Sexual Offences,2012/2013,210
+NC,Attempted Sexual Offences,2013/2014,153
+NC,Attempted Sexual Offences,2014/2015,128
+NC,Attempted Sexual Offences,2015/2016,147
+NC,Attempted Sexual Offences,2016/2017,154
+NC,Attempted Sexual Offences,2017/2018,130
+NC,Attempted Sexual Offences,2018/2019,150
+NC,Attempted Sexual Offences,2019/2020,186
+NC,Attempted Sexual Offences,2020/2021,142
+NC,Contact Sexual Offences,2011/2012,64
+NC,Contact Sexual Offences,2012/2013,53
+NC,Contact Sexual Offences,2013/2014,62
+NC,Contact Sexual Offences,2014/2015,41
+NC,Contact Sexual Offences,2015/2016,45
+NC,Contact Sexual Offences,2016/2017,55
+NC,Contact Sexual Offences,2017/2018,63
+NC,Contact Sexual Offences,2018/2019,52
+NC,Contact Sexual Offences,2019/2020,50
+NC,Contact Sexual Offences,2020/2021,38
+WC,Rape,2011/2012,5924
+WC,Rape,2012/2013,5861
+WC,Rape,2013/2014,5250
+WC,Rape,2014/2015,4951
+WC,Rape,2015/2016,4800
+WC,Rape,2016/2017,4771
+WC,Rape,2017/2018,4744
+WC,Rape,2018/2019,4649
+WC,Rape,2019/2020,4877
+WC,Rape,2020/2021,4442
+WC,Sexual Assault,2011/2012,1975
+WC,Sexual Assault,2012/2013,1729
+WC,Sexual Assault,2013/2014,1705
+WC,Sexual Assault,2014/2015,1640
+WC,Sexual Assault,2015/2016,1576
+WC,Sexual Assault,2016/2017,1670
+WC,Sexual Assault,2017/2018,1710
+WC,Sexual Assault,2018/2019,1757
+WC,Sexual Assault,2019/2020,1910
+WC,Sexual Assault,2020/2021,1440
+WC,Attempted Sexual Offences,2011/2012,410
+WC,Attempted Sexual Offences,2012/2013,420
+WC,Attempted Sexual Offences,2013/2014,441
+WC,Attempted Sexual Offences,2014/2015,409
+WC,Attempted Sexual Offences,2015/2016,437
+WC,Attempted Sexual Offences,2016/2017,365
+WC,Attempted Sexual Offences,2017/2018,372
+WC,Attempted Sexual Offences,2018/2019,341
+WC,Attempted Sexual Offences,2019/2020,274
+WC,Attempted Sexual Offences,2020/2021,321
+WC,Contact Sexual Offences,2011/2012,500
+WC,Contact Sexual Offences,2012/2013,430
+WC,Contact Sexual Offences,2013/2014,364
+WC,Contact Sexual Offences,2014/2015,369
+WC,Contact Sexual Offences,2015/2016,317
+WC,Contact Sexual Offences,2016/2017,309
+WC,Contact Sexual Offences,2017/2018,249
+WC,Contact Sexual Offences,2018/2019,296
+WC,Contact Sexual Offences,2019/2020,242
+WC,Contact Sexual Offences,2020/2021,234
+ZA,Rape,2021/2022,41739
+ZA,Sexual Assault,2021/2022,7798
+ZA,Attempted Sexual Offences,2021/2022,2027
+ZA,Contact Sexual Offences,2021/2022,1130
+EC,Rape,2021/2022,6969
+EC,Sexual Assault,2021/2022,956
+EC,Attempted Sexual Offences,2021/2022,361
+EC,Contact Sexual Offences,2021/2022,118
+FS,Rape,2021/2022,2595
+FS,Sexual Assault,2021/2022,567
+FS,Attempted Sexual Offences,2021/2022,157
+FS,Contact Sexual Offences,2021/2022,97
+GT,Rape,2021/2022,8675
+GT,Sexual Assault,2021/2022,2010
+GT,Attempted Sexual Offences,2021/2022,255
+GT,Contact Sexual Offences,2021/2022,238
+KZN,Rape,2021/2022,7966
+KZN,Sexual Assault,2021/2022,1294
+KZN,Attempted Sexual Offences,2021/2022,236
+KZN,Contact Sexual Offences,2021/2022,121
+LIM,Rape,2021/2022,3625
+LIM,Sexual Assault,2021/2022,431
+LIM,Attempted Sexual Offences,2021/2022,211
+LIM,Contact Sexual Offences,2021/2022,42
+MP,Rape,2021/2022,3016
+MP,Sexual Assault,2021/2022,364
+MP,Attempted Sexual Offences,2021/2022,100
+MP,Contact Sexual Offences,2021/2022,73
+NW,Rape,2021/2022,3098
+NW,Sexual Assault,2021/2022,337
+NW,Attempted Sexual Offences,2021/2022,217
+NW,Contact Sexual Offences,2021/2022,85
+NC,Rape,2021/2022,952
+NC,Sexual Assault,2021/2022,212
+NC,Attempted Sexual Offences,2021/2022,101
+NC,Contact Sexual Offences,2021/2022,52
+WC,Rape,2021/2022,4843
+WC,Sexual Assault,2021/2022,1627
+WC,Attempted Sexual Offences,2021/2022,389
+WC,Contact Sexual Offences,2021/2022,304
+ZA,Rape,2022/2023,43037
+ZA,Sexual Assault,2022/2023,7599
+ZA,Attempted Sexual Offences,2022/2023,2378
+ZA,Contact Sexual Offences,2022/2023,874
+EC,Rape,2022/2023,6883
+EC,Sexual Assault,2022/2023,949
+EC,Attempted Sexual Offences,2022/2023,419
+EC,Contact Sexual Offences,2022/2023,110
+FS,Rape,2022/2023,2688
+FS,Sexual Assault,2022/2023,493
+FS,Attempted Sexual Offences,2022/2023,164
+FS,Contact Sexual Offences,2022/2023,97
+GT,Rape,2022/2023,8811
+GT,Sexual Assault,2022/2023,1913
+GT,Attempted Sexual Offences,2022/2023,272
+GT,Contact Sexual Offences,2022/2023,164
+KZN,Rape,2022/2023,8468
+KZN,Sexual Assault,2022/2023,1154
+KZN,Attempted Sexual Offences,2022/2023,398
+KZN,Contact Sexual Offences,2022/2023,140
+LIM,Rape,2022/2023,4054
+LIM,Sexual Assault,2022/2023,392
+LIM,Attempted Sexual Offences,2022/2023,228
+LIM,Contact Sexual Offences,2022/2023,41
+MP,Rape,2022/2023,2795
+MP,Sexual Assault,2022/2023,376
+MP,Attempted Sexual Offences,2022/2023,103
+MP,Contact Sexual Offences,2022/2023,47
+NW,Rape,2022/2023,3206
+NW,Sexual Assault,2022/2023,391
+NW,Attempted Sexual Offences,2022/2023,244
+NW,Contact Sexual Offences,2022/2023,47
+NC,Rape,2022/2023,1096
+NC,Sexual Assault,2022/2023,252
+NC,Attempted Sexual Offences,2022/2023,145
+NC,Contact Sexual Offences,2022/2023,38
+WC,Rape,2022/2023,5036
+WC,Sexual Assault,2022/2023,1679
+WC,Attempted Sexual Offences,2022/2023,405
+WC,Contact Sexual Offences,2022/2023,190

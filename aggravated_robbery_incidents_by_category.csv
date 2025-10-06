@@ -1,0 +1,821 @@
+Geography,Aggravated Robbery,Financial Year,Count
+ZA,Car Hijacking,2011/2012,9417
+ZA,Car Hijacking,2012/2013,9931
+ZA,Car Hijacking,2013/2014,11180
+ZA,Car Hijacking,2014/2015,12773
+ZA,Car Hijacking,2015/2016,14602
+ZA,Car Hijacking,2016/2017,16717
+ZA,Car Hijacking,2017/2018,16325
+ZA,Car Hijacking,2018/2019,16026
+ZA,Car Hijacking,2019/2020,18162
+ZA,Car Hijacking,2020/2021,16731
+ZA,Robbery at Residential Premises,2011/2012,16766
+ZA,Robbery at Residential Premises,2012/2013,17950
+ZA,Robbery at Residential Premises,2013/2014,19284
+ZA,Robbery at Residential Premises,2014/2015,20281
+ZA,Robbery at Residential Premises,2015/2016,20820
+ZA,Robbery at Residential Premises,2016/2017,22343
+ZA,Robbery at Residential Premises,2017/2018,22261
+ZA,Robbery at Residential Premises,2018/2019,22431
+ZA,Robbery at Residential Premises,2019/2020,21130
+ZA,Robbery at Residential Premises,2020/2021,20870
+ZA,Robbery at Non-Residential Premises,2011/2012,15912
+ZA,Robbery at Non-Residential Premises,2012/2013,16343
+ZA,Robbery at Non-Residential Premises,2013/2014,18573
+ZA,Robbery at Non-Residential Premises,2014/2015,19170
+ZA,Robbery at Non-Residential Premises,2015/2016,19698
+ZA,Robbery at Non-Residential Premises,2016/2017,20680
+ZA,Robbery at Non-Residential Premises,2017/2018,20047
+ZA,Robbery at Non-Residential Premises,2018/2019,19991
+ZA,Robbery at Non-Residential Premises,2019/2020,20651
+ZA,Robbery at Non-Residential Premises,2020/2021,18231
+ZA,Robbery of Cash in Transit,2011/2012,182
+ZA,Robbery of Cash in Transit,2012/2013,145
+ZA,Robbery of Cash in Transit,2013/2014,145
+ZA,Robbery of Cash in Transit,2014/2015,119
+ZA,Robbery of Cash in Transit,2015/2016,137
+ZA,Robbery of Cash in Transit,2016/2017,152
+ZA,Robbery of Cash in Transit,2017/2018,238
+ZA,Robbery of Cash in Transit,2018/2019,183
+ZA,Robbery of Cash in Transit,2019/2020,164
+ZA,Robbery of Cash in Transit,2020/2021,195
+ZA,Bank Robbery,2011/2012,35
+ZA,Bank Robbery,2012/2013,7
+ZA,Bank Robbery,2013/2014,21
+ZA,Bank Robbery,2014/2015,17
+ZA,Bank Robbery,2015/2016,6
+ZA,Bank Robbery,2016/2017,3
+ZA,Bank Robbery,2017/2018,13
+ZA,Bank Robbery,2018/2019,4
+ZA,Bank Robbery,2019/2020,0
+ZA,Bank Robbery,2020/2021,2
+ZA,Truck Hijacking,2011/2012,821
+ZA,Truck Hijacking,2012/2013,943
+ZA,Truck Hijacking,2013/2014,991
+ZA,Truck Hijacking,2014/2015,1279
+ZA,Truck Hijacking,2015/2016,1184
+ZA,Truck Hijacking,2016/2017,1183
+ZA,Truck Hijacking,2017/2018,1202
+ZA,Truck Hijacking,2018/2019,1182
+ZA,Truck Hijacking,2019/2020,1202
+ZA,Truck Hijacking,2020/2021,1397
+ZA,Other,2011/2012,57636
+ZA,Other,2012/2013,60169
+ZA,Other,2013/2014,68769
+ZA,Other,2014/2015,75406
+ZA,Other,2015/2016,76080
+ZA,Other,2016/2017,79878
+ZA,Other,2017/2018,78278
+ZA,Other,2018/2019,80215
+ZA,Other,2019/2020,82681
+ZA,Other,2020/2021,62415
+EC,Car Hijacking,2011/2012,636
+EC,Car Hijacking,2012/2013,694
+EC,Car Hijacking,2013/2014,773
+EC,Car Hijacking,2014/2015,769
+EC,Car Hijacking,2015/2016,956
+EC,Car Hijacking,2016/2017,955
+EC,Car Hijacking,2017/2018,999
+EC,Car Hijacking,2018/2019,1048
+EC,Car Hijacking,2019/2020,1111
+EC,Car Hijacking,2020/2021,996
+EC,Robbery at Residential Premises,2011/2012,1747
+EC,Robbery at Residential Premises,2012/2013,1726
+EC,Robbery at Residential Premises,2013/2014,1924
+EC,Robbery at Residential Premises,2014/2015,1811
+EC,Robbery at Residential Premises,2015/2016,2054
+EC,Robbery at Residential Premises,2016/2017,2171
+EC,Robbery at Residential Premises,2017/2018,2184
+EC,Robbery at Residential Premises,2018/2019,2188
+EC,Robbery at Residential Premises,2019/2020,2120
+EC,Robbery at Residential Premises,2020/2021,2101
+EC,Robbery at Non-Residential Premises,2011/2012,2167
+EC,Robbery at Non-Residential Premises,2012/2013,1940
+EC,Robbery at Non-Residential Premises,2013/2014,2441
+EC,Robbery at Non-Residential Premises,2014/2015,2474
+EC,Robbery at Non-Residential Premises,2015/2016,2218
+EC,Robbery at Non-Residential Premises,2016/2017,2369
+EC,Robbery at Non-Residential Premises,2017/2018,2395
+EC,Robbery at Non-Residential Premises,2018/2019,2373
+EC,Robbery at Non-Residential Premises,2019/2020,2382
+EC,Robbery at Non-Residential Premises,2020/2021,1954
+EC,Robbery of Cash in Transit,2011/2012,12
+EC,Robbery of Cash in Transit,2012/2013,16
+EC,Robbery of Cash in Transit,2013/2014,8
+EC,Robbery of Cash in Transit,2014/2015,10
+EC,Robbery of Cash in Transit,2015/2016,19
+EC,Robbery of Cash in Transit,2016/2017,11
+EC,Robbery of Cash in Transit,2017/2018,23
+EC,Robbery of Cash in Transit,2018/2019,46
+EC,Robbery of Cash in Transit,2019/2020,21
+EC,Robbery of Cash in Transit,2020/2021,32
+EC,Bank Robbery,2011/2012,6
+EC,Bank Robbery,2012/2013,1
+EC,Bank Robbery,2013/2014,5
+EC,Bank Robbery,2014/2015,0
+EC,Bank Robbery,2015/2016,0
+EC,Bank Robbery,2016/2017,1
+EC,Bank Robbery,2017/2018,0
+EC,Bank Robbery,2018/2019,1
+EC,Bank Robbery,2019/2020,0
+EC,Bank Robbery,2020/2021,1
+EC,Truck Hijacking,2011/2012,29
+EC,Truck Hijacking,2012/2013,15
+EC,Truck Hijacking,2013/2014,31
+EC,Truck Hijacking,2014/2015,34
+EC,Truck Hijacking,2015/2016,54
+EC,Truck Hijacking,2016/2017,82
+EC,Truck Hijacking,2017/2018,92
+EC,Truck Hijacking,2018/2019,110
+EC,Truck Hijacking,2019/2020,124
+EC,Truck Hijacking,2020/2021,159
+EC,Other,2011/2012,7879
+EC,Other,2012/2013,7359
+EC,Other,2013/2014,8261
+EC,Other,2014/2015,8147
+EC,Other,2015/2016,7476
+EC,Other,2016/2017,8099
+EC,Other,2017/2018,7792
+EC,Other,2018/2019,7812
+EC,Other,2019/2020,8225
+EC,Other,2020/2021,6215
+FS,Car Hijacking,2011/2012,281
+FS,Car Hijacking,2012/2013,279
+FS,Car Hijacking,2013/2014,255
+FS,Car Hijacking,2014/2015,270
+FS,Car Hijacking,2015/2016,258
+FS,Car Hijacking,2016/2017,234
+FS,Car Hijacking,2017/2018,235
+FS,Car Hijacking,2018/2019,236
+FS,Car Hijacking,2019/2020,241
+FS,Car Hijacking,2020/2021,199
+FS,Robbery at Residential Premises,2011/2012,662
+FS,Robbery at Residential Premises,2012/2013,835
+FS,Robbery at Residential Premises,2013/2014,753
+FS,Robbery at Residential Premises,2014/2015,718
+FS,Robbery at Residential Premises,2015/2016,773
+FS,Robbery at Residential Premises,2016/2017,875
+FS,Robbery at Residential Premises,2017/2018,864
+FS,Robbery at Residential Premises,2018/2019,851
+FS,Robbery at Residential Premises,2019/2020,725
+FS,Robbery at Residential Premises,2020/2021,710
+FS,Robbery at Non-Residential Premises,2011/2012,1103
+FS,Robbery at Non-Residential Premises,2012/2013,1146
+FS,Robbery at Non-Residential Premises,2013/2014,989
+FS,Robbery at Non-Residential Premises,2014/2015,852
+FS,Robbery at Non-Residential Premises,2015/2016,756
+FS,Robbery at Non-Residential Premises,2016/2017,973
+FS,Robbery at Non-Residential Premises,2017/2018,886
+FS,Robbery at Non-Residential Premises,2018/2019,955
+FS,Robbery at Non-Residential Premises,2019/2020,876
+FS,Robbery at Non-Residential Premises,2020/2021,796
+FS,Robbery of Cash in Transit,2011/2012,12
+FS,Robbery of Cash in Transit,2012/2013,8
+FS,Robbery of Cash in Transit,2013/2014,4
+FS,Robbery of Cash in Transit,2014/2015,9
+FS,Robbery of Cash in Transit,2015/2016,5
+FS,Robbery of Cash in Transit,2016/2017,12
+FS,Robbery of Cash in Transit,2017/2018,18
+FS,Robbery of Cash in Transit,2018/2019,8
+FS,Robbery of Cash in Transit,2019/2020,12
+FS,Robbery of Cash in Transit,2020/2021,2
+FS,Bank Robbery,2011/2012,2
+FS,Bank Robbery,2012/2013,0
+FS,Bank Robbery,2013/2014,3
+FS,Bank Robbery,2014/2015,2
+FS,Bank Robbery,2015/2016,0
+FS,Bank Robbery,2016/2017,0
+FS,Bank Robbery,2017/2018,2
+FS,Bank Robbery,2018/2019,0
+FS,Bank Robbery,2019/2020,0
+FS,Bank Robbery,2020/2021,0
+FS,Truck Hijacking,2011/2012,54
+FS,Truck Hijacking,2012/2013,82
+FS,Truck Hijacking,2013/2014,71
+FS,Truck Hijacking,2014/2015,89
+FS,Truck Hijacking,2015/2016,65
+FS,Truck Hijacking,2016/2017,41
+FS,Truck Hijacking,2017/2018,32
+FS,Truck Hijacking,2018/2019,39
+FS,Truck Hijacking,2019/2020,44
+FS,Truck Hijacking,2020/2021,45
+FS,Other,2011/2012,3209
+FS,Other,2012/2013,3441
+FS,Other,2013/2014,3272
+FS,Other,2014/2015,3299
+FS,Other,2015/2016,2921
+FS,Other,2016/2017,3012
+FS,Other,2017/2018,2995
+FS,Other,2018/2019,3250
+FS,Other,2019/2020,3221
+FS,Other,2020/2021,2240
+GT,Car Hijacking,2011/2012,4983
+GT,Car Hijacking,2012/2013,4934
+GT,Car Hijacking,2013/2014,6056
+GT,Car Hijacking,2014/2015,6867
+GT,Car Hijacking,2015/2016,7367
+GT,Car Hijacking,2016/2017,8610
+GT,Car Hijacking,2017/2018,8269
+GT,Car Hijacking,2018/2019,7776
+GT,Car Hijacking,2019/2020,9025
+GT,Car Hijacking,2020/2021,8458
+GT,Robbery at Residential Premises,2011/2012,6336
+GT,Robbery at Residential Premises,2012/2013,6607
+GT,Robbery at Residential Premises,2013/2014,7438
+GT,Robbery at Residential Premises,2014/2015,8174
+GT,Robbery at Residential Premises,2015/2016,7896
+GT,Robbery at Residential Premises,2016/2017,8731
+GT,Robbery at Residential Premises,2017/2018,8333
+GT,Robbery at Residential Premises,2018/2019,8644
+GT,Robbery at Residential Premises,2019/2020,7695
+GT,Robbery at Residential Premises,2020/2021,6933
+GT,Robbery at Non-Residential Premises,2011/2012,5102
+GT,Robbery at Non-Residential Premises,2012/2013,5002
+GT,Robbery at Non-Residential Premises,2013/2014,6014
+GT,Robbery at Non-Residential Premises,2014/2015,6329
+GT,Robbery at Non-Residential Premises,2015/2016,6910
+GT,Robbery at Non-Residential Premises,2016/2017,7187
+GT,Robbery at Non-Residential Premises,2017/2018,6679
+GT,Robbery at Non-Residential Premises,2018/2019,6662
+GT,Robbery at Non-Residential Premises,2019/2020,6989
+GT,Robbery at Non-Residential Premises,2020/2021,5992
+GT,Robbery of Cash in Transit,2011/2012,83
+GT,Robbery of Cash in Transit,2012/2013,50
+GT,Robbery of Cash in Transit,2013/2014,60
+GT,Robbery of Cash in Transit,2014/2015,39
+GT,Robbery of Cash in Transit,2015/2016,32
+GT,Robbery of Cash in Transit,2016/2017,33
+GT,Robbery of Cash in Transit,2017/2018,80
+GT,Robbery of Cash in Transit,2018/2019,62
+GT,Robbery of Cash in Transit,2019/2020,61
+GT,Robbery of Cash in Transit,2020/2021,87
+GT,Bank Robbery,2011/2012,21
+GT,Bank Robbery,2012/2013,1
+GT,Bank Robbery,2013/2014,11
+GT,Bank Robbery,2014/2015,9
+GT,Bank Robbery,2015/2016,2
+GT,Bank Robbery,2016/2017,1
+GT,Bank Robbery,2017/2018,6
+GT,Bank Robbery,2018/2019,1
+GT,Bank Robbery,2019/2020,0
+GT,Bank Robbery,2020/2021,1
+GT,Truck Hijacking,2011/2012,443
+GT,Truck Hijacking,2012/2013,524
+GT,Truck Hijacking,2013/2014,547
+GT,Truck Hijacking,2014/2015,804
+GT,Truck Hijacking,2015/2016,695
+GT,Truck Hijacking,2016/2017,668
+GT,Truck Hijacking,2017/2018,708
+GT,Truck Hijacking,2018/2019,647
+GT,Truck Hijacking,2019/2020,629
+GT,Truck Hijacking,2020/2021,774
+GT,Other,2011/2012,18180
+GT,Other,2012/2013,18599
+GT,Other,2013/2014,22380
+GT,Other,2014/2015,25140
+GT,Other,2015/2016,26890
+GT,Other,2016/2017,28563
+GT,Other,2017/2018,27631
+GT,Other,2018/2019,28248
+GT,Other,2019/2020,29528
+GT,Other,2020/2021,21864
+KZN,Car Hijacking,2011/2012,2218
+KZN,Car Hijacking,2012/2013,2413
+KZN,Car Hijacking,2013/2014,2262
+KZN,Car Hijacking,2014/2015,2190
+KZN,Car Hijacking,2015/2016,2493
+KZN,Car Hijacking,2016/2017,3029
+KZN,Car Hijacking,2017/2018,2698
+KZN,Car Hijacking,2018/2019,2764
+KZN,Car Hijacking,2019/2020,3041
+KZN,Car Hijacking,2020/2021,2669
+KZN,Robbery at Residential Premises,2011/2012,3751
+KZN,Robbery at Residential Premises,2012/2013,4119
+KZN,Robbery at Residential Premises,2013/2014,4099
+KZN,Robbery at Residential Premises,2014/2015,3958
+KZN,Robbery at Residential Premises,2015/2016,4082
+KZN,Robbery at Residential Premises,2016/2017,4255
+KZN,Robbery at Residential Premises,2017/2018,4174
+KZN,Robbery at Residential Premises,2018/2019,4182
+KZN,Robbery at Residential Premises,2019/2020,4575
+KZN,Robbery at Residential Premises,2020/2021,4820
+KZN,Robbery at Non-Residential Premises,2011/2012,1909
+KZN,Robbery at Non-Residential Premises,2012/2013,2347
+KZN,Robbery at Non-Residential Premises,2013/2014,2696
+KZN,Robbery at Non-Residential Premises,2014/2015,2750
+KZN,Robbery at Non-Residential Premises,2015/2016,2825
+KZN,Robbery at Non-Residential Premises,2016/2017,2951
+KZN,Robbery at Non-Residential Premises,2017/2018,3047
+KZN,Robbery at Non-Residential Premises,2018/2019,3055
+KZN,Robbery at Non-Residential Premises,2019/2020,3072
+KZN,Robbery at Non-Residential Premises,2020/2021,3303
+KZN,Robbery of Cash in Transit,2011/2012,25
+KZN,Robbery of Cash in Transit,2012/2013,20
+KZN,Robbery of Cash in Transit,2013/2014,37
+KZN,Robbery of Cash in Transit,2014/2015,18
+KZN,Robbery of Cash in Transit,2015/2016,21
+KZN,Robbery of Cash in Transit,2016/2017,25
+KZN,Robbery of Cash in Transit,2017/2018,30
+KZN,Robbery of Cash in Transit,2018/2019,12
+KZN,Robbery of Cash in Transit,2019/2020,16
+KZN,Robbery of Cash in Transit,2020/2021,22
+KZN,Bank Robbery,2011/2012,1
+KZN,Bank Robbery,2012/2013,2
+KZN,Bank Robbery,2013/2014,0
+KZN,Bank Robbery,2014/2015,0
+KZN,Bank Robbery,2015/2016,0
+KZN,Bank Robbery,2016/2017,1
+KZN,Bank Robbery,2017/2018,3
+KZN,Bank Robbery,2018/2019,0
+KZN,Bank Robbery,2019/2020,0
+KZN,Bank Robbery,2020/2021,0
+KZN,Truck Hijacking,2011/2012,64
+KZN,Truck Hijacking,2012/2013,82
+KZN,Truck Hijacking,2013/2014,46
+KZN,Truck Hijacking,2014/2015,63
+KZN,Truck Hijacking,2015/2016,71
+KZN,Truck Hijacking,2016/2017,81
+KZN,Truck Hijacking,2017/2018,52
+KZN,Truck Hijacking,2018/2019,80
+KZN,Truck Hijacking,2019/2020,70
+KZN,Truck Hijacking,2020/2021,77
+KZN,Other,2011/2012,10449
+KZN,Other,2012/2013,10940
+KZN,Other,2013/2014,11817
+KZN,Other,2014/2015,11902
+KZN,Other,2015/2016,11569
+KZN,Other,2016/2017,11985
+KZN,Other,2017/2018,11539
+KZN,Other,2018/2019,12017
+KZN,Other,2019/2020,12050
+KZN,Other,2020/2021,10073
+LIM,Car Hijacking,2011/2012,157
+LIM,Car Hijacking,2012/2013,219
+LIM,Car Hijacking,2013/2014,249
+LIM,Car Hijacking,2014/2015,345
+LIM,Car Hijacking,2015/2016,450
+LIM,Car Hijacking,2016/2017,459
+LIM,Car Hijacking,2017/2018,584
+LIM,Car Hijacking,2018/2019,474
+LIM,Car Hijacking,2019/2020,458
+LIM,Car Hijacking,2020/2021,426
+LIM,Robbery at Residential Premises,2011/2012,754
+LIM,Robbery at Residential Premises,2012/2013,767
+LIM,Robbery at Residential Premises,2013/2014,960
+LIM,Robbery at Residential Premises,2014/2015,1117
+LIM,Robbery at Residential Premises,2015/2016,1190
+LIM,Robbery at Residential Premises,2016/2017,1181
+LIM,Robbery at Residential Premises,2017/2018,1490
+LIM,Robbery at Residential Premises,2018/2019,1300
+LIM,Robbery at Residential Premises,2019/2020,1209
+LIM,Robbery at Residential Premises,2020/2021,1108
+LIM,Robbery at Non-Residential Premises,2011/2012,1130
+LIM,Robbery at Non-Residential Premises,2012/2013,1221
+LIM,Robbery at Non-Residential Premises,2013/2014,1374
+LIM,Robbery at Non-Residential Premises,2014/2015,1522
+LIM,Robbery at Non-Residential Premises,2015/2016,1802
+LIM,Robbery at Non-Residential Premises,2016/2017,1750
+LIM,Robbery at Non-Residential Premises,2017/2018,1821
+LIM,Robbery at Non-Residential Premises,2018/2019,1838
+LIM,Robbery at Non-Residential Premises,2019/2020,2165
+LIM,Robbery at Non-Residential Premises,2020/2021,1560
+LIM,Robbery of Cash in Transit,2011/2012,11
+LIM,Robbery of Cash in Transit,2012/2013,5
+LIM,Robbery of Cash in Transit,2013/2014,7
+LIM,Robbery of Cash in Transit,2014/2015,9
+LIM,Robbery of Cash in Transit,2015/2016,13
+LIM,Robbery of Cash in Transit,2016/2017,10
+LIM,Robbery of Cash in Transit,2017/2018,14
+LIM,Robbery of Cash in Transit,2018/2019,13
+LIM,Robbery of Cash in Transit,2019/2020,15
+LIM,Robbery of Cash in Transit,2020/2021,13
+LIM,Bank Robbery,2011/2012,0
+LIM,Bank Robbery,2012/2013,0
+LIM,Bank Robbery,2013/2014,0
+LIM,Bank Robbery,2014/2015,1
+LIM,Bank Robbery,2015/2016,0
+LIM,Bank Robbery,2016/2017,0
+LIM,Bank Robbery,2017/2018,0
+LIM,Bank Robbery,2018/2019,0
+LIM,Bank Robbery,2019/2020,0
+LIM,Bank Robbery,2020/2021,0
+LIM,Truck Hijacking,2011/2012,19
+LIM,Truck Hijacking,2012/2013,34
+LIM,Truck Hijacking,2013/2014,13
+LIM,Truck Hijacking,2014/2015,27
+LIM,Truck Hijacking,2015/2016,15
+LIM,Truck Hijacking,2016/2017,27
+LIM,Truck Hijacking,2017/2018,32
+LIM,Truck Hijacking,2018/2019,15
+LIM,Truck Hijacking,2019/2020,25
+LIM,Truck Hijacking,2020/2021,18
+LIM,Other,2011/2012,1581
+LIM,Other,2012/2013,1671
+LIM,Other,2013/2014,2560
+LIM,Other,2014/2015,3102
+LIM,Other,2015/2016,3253
+LIM,Other,2016/2017,3318
+LIM,Other,2017/2018,3107
+LIM,Other,2018/2019,3366
+LIM,Other,2019/2020,3594
+LIM,Other,2020/2021,2980
+MP,Car Hijacking,2011/2012,363
+MP,Car Hijacking,2012/2013,355
+MP,Car Hijacking,2013/2014,359
+MP,Car Hijacking,2014/2015,509
+MP,Car Hijacking,2015/2016,629
+MP,Car Hijacking,2016/2017,810
+MP,Car Hijacking,2017/2018,896
+MP,Car Hijacking,2018/2019,917
+MP,Car Hijacking,2019/2020,999
+MP,Car Hijacking,2020/2021,967
+MP,Robbery at Residential Premises,2011/2012,1189
+MP,Robbery at Residential Premises,2012/2013,1123
+MP,Robbery at Residential Premises,2013/2014,1118
+MP,Robbery at Residential Premises,2014/2015,1112
+MP,Robbery at Residential Premises,2015/2016,1080
+MP,Robbery at Residential Premises,2016/2017,1138
+MP,Robbery at Residential Premises,2017/2018,1125
+MP,Robbery at Residential Premises,2018/2019,1069
+MP,Robbery at Residential Premises,2019/2020,1184
+MP,Robbery at Residential Premises,2020/2021,1271
+MP,Robbery at Non-Residential Premises,2011/2012,1380
+MP,Robbery at Non-Residential Premises,2012/2013,1308
+MP,Robbery at Non-Residential Premises,2013/2014,1257
+MP,Robbery at Non-Residential Premises,2014/2015,1366
+MP,Robbery at Non-Residential Premises,2015/2016,1562
+MP,Robbery at Non-Residential Premises,2016/2017,1764
+MP,Robbery at Non-Residential Premises,2017/2018,1624
+MP,Robbery at Non-Residential Premises,2018/2019,1758
+MP,Robbery at Non-Residential Premises,2019/2020,1783
+MP,Robbery at Non-Residential Premises,2020/2021,1662
+MP,Robbery of Cash in Transit,2011/2012,15
+MP,Robbery of Cash in Transit,2012/2013,12
+MP,Robbery of Cash in Transit,2013/2014,9
+MP,Robbery of Cash in Transit,2014/2015,14
+MP,Robbery of Cash in Transit,2015/2016,18
+MP,Robbery of Cash in Transit,2016/2017,22
+MP,Robbery of Cash in Transit,2017/2018,23
+MP,Robbery of Cash in Transit,2018/2019,16
+MP,Robbery of Cash in Transit,2019/2020,15
+MP,Robbery of Cash in Transit,2020/2021,17
+MP,Bank Robbery,2011/2012,1
+MP,Bank Robbery,2012/2013,2
+MP,Bank Robbery,2013/2014,2
+MP,Bank Robbery,2014/2015,2
+MP,Bank Robbery,2015/2016,1
+MP,Bank Robbery,2016/2017,0
+MP,Bank Robbery,2017/2018,0
+MP,Bank Robbery,2018/2019,0
+MP,Bank Robbery,2019/2020,0
+MP,Bank Robbery,2020/2021,0
+MP,Truck Hijacking,2011/2012,149
+MP,Truck Hijacking,2012/2013,143
+MP,Truck Hijacking,2013/2014,197
+MP,Truck Hijacking,2014/2015,155
+MP,Truck Hijacking,2015/2016,194
+MP,Truck Hijacking,2016/2017,178
+MP,Truck Hijacking,2017/2018,121
+MP,Truck Hijacking,2018/2019,116
+MP,Truck Hijacking,2019/2020,144
+MP,Truck Hijacking,2020/2021,111
+MP,Other,2011/2012,2584
+MP,Other,2012/2013,2255
+MP,Other,2013/2014,2310
+MP,Other,2014/2015,2498
+MP,Other,2015/2016,2512
+MP,Other,2016/2017,2790
+MP,Other,2017/2018,2968
+MP,Other,2018/2019,3215
+MP,Other,2019/2020,3547
+MP,Other,2020/2021,2976
+NW,Car Hijacking,2011/2012,232
+NW,Car Hijacking,2012/2013,227
+NW,Car Hijacking,2013/2014,242
+NW,Car Hijacking,2014/2015,278
+NW,Car Hijacking,2015/2016,370
+NW,Car Hijacking,2016/2017,390
+NW,Car Hijacking,2017/2018,425
+NW,Car Hijacking,2018/2019,478
+NW,Car Hijacking,2019/2020,493
+NW,Car Hijacking,2020/2021,366
+NW,Robbery at Residential Premises,2011/2012,894
+NW,Robbery at Residential Premises,2012/2013,1022
+NW,Robbery at Residential Premises,2013/2014,1004
+NW,Robbery at Residential Premises,2014/2015,1110
+NW,Robbery at Residential Premises,2015/2016,1065
+NW,Robbery at Residential Premises,2016/2017,1290
+NW,Robbery at Residential Premises,2017/2018,1145
+NW,Robbery at Residential Premises,2018/2019,1291
+NW,Robbery at Residential Premises,2019/2020,1076
+NW,Robbery at Residential Premises,2020/2021,1034
+NW,Robbery at Non-Residential Premises,2011/2012,1348
+NW,Robbery at Non-Residential Premises,2012/2013,1231
+NW,Robbery at Non-Residential Premises,2013/2014,1366
+NW,Robbery at Non-Residential Premises,2014/2015,1419
+NW,Robbery at Non-Residential Premises,2015/2016,1394
+NW,Robbery at Non-Residential Premises,2016/2017,1493
+NW,Robbery at Non-Residential Premises,2017/2018,1263
+NW,Robbery at Non-Residential Premises,2018/2019,1329
+NW,Robbery at Non-Residential Premises,2019/2020,1307
+NW,Robbery at Non-Residential Premises,2020/2021,1172
+NW,Robbery of Cash in Transit,2011/2012,8
+NW,Robbery of Cash in Transit,2012/2013,3
+NW,Robbery of Cash in Transit,2013/2014,0
+NW,Robbery of Cash in Transit,2014/2015,5
+NW,Robbery of Cash in Transit,2015/2016,4
+NW,Robbery of Cash in Transit,2016/2017,4
+NW,Robbery of Cash in Transit,2017/2018,23
+NW,Robbery of Cash in Transit,2018/2019,10
+NW,Robbery of Cash in Transit,2019/2020,11
+NW,Robbery of Cash in Transit,2020/2021,5
+NW,Bank Robbery,2011/2012,4
+NW,Bank Robbery,2012/2013,0
+NW,Bank Robbery,2013/2014,0
+NW,Bank Robbery,2014/2015,1
+NW,Bank Robbery,2015/2016,3
+NW,Bank Robbery,2016/2017,0
+NW,Bank Robbery,2017/2018,1
+NW,Bank Robbery,2018/2019,2
+NW,Bank Robbery,2019/2020,0
+NW,Bank Robbery,2020/2021,0
+NW,Truck Hijacking,2011/2012,28
+NW,Truck Hijacking,2012/2013,22
+NW,Truck Hijacking,2013/2014,46
+NW,Truck Hijacking,2014/2015,45
+NW,Truck Hijacking,2015/2016,42
+NW,Truck Hijacking,2016/2017,48
+NW,Truck Hijacking,2017/2018,41
+NW,Truck Hijacking,2018/2019,54
+NW,Truck Hijacking,2019/2020,36
+NW,Truck Hijacking,2020/2021,37
+NW,Other,2011/2012,2852
+NW,Other,2012/2013,2766
+NW,Other,2013/2014,2751
+NW,Other,2014/2015,3119
+NW,Other,2015/2016,3403
+NW,Other,2016/2017,3792
+NW,Other,2017/2018,3927
+NW,Other,2018/2019,3859
+NW,Other,2019/2020,3884
+NW,Other,2020/2021,3119
+NC,Car Hijacking,2011/2012,8
+NC,Car Hijacking,2012/2013,28
+NC,Car Hijacking,2013/2014,28
+NC,Car Hijacking,2014/2015,15
+NC,Car Hijacking,2015/2016,47
+NC,Car Hijacking,2016/2017,29
+NC,Car Hijacking,2017/2018,37
+NC,Car Hijacking,2018/2019,39
+NC,Car Hijacking,2019/2020,34
+NC,Car Hijacking,2020/2021,20
+NC,Robbery at Residential Premises,2011/2012,89
+NC,Robbery at Residential Premises,2012/2013,104
+NC,Robbery at Residential Premises,2013/2014,110
+NC,Robbery at Residential Premises,2014/2015,123
+NC,Robbery at Residential Premises,2015/2016,106
+NC,Robbery at Residential Premises,2016/2017,142
+NC,Robbery at Residential Premises,2017/2018,159
+NC,Robbery at Residential Premises,2018/2019,157
+NC,Robbery at Residential Premises,2019/2020,132
+NC,Robbery at Residential Premises,2020/2021,151
+NC,Robbery at Non-Residential Premises,2011/2012,210
+NC,Robbery at Non-Residential Premises,2012/2013,215
+NC,Robbery at Non-Residential Premises,2013/2014,282
+NC,Robbery at Non-Residential Premises,2014/2015,240
+NC,Robbery at Non-Residential Premises,2015/2016,258
+NC,Robbery at Non-Residential Premises,2016/2017,304
+NC,Robbery at Non-Residential Premises,2017/2018,299
+NC,Robbery at Non-Residential Premises,2018/2019,332
+NC,Robbery at Non-Residential Premises,2019/2020,198
+NC,Robbery at Non-Residential Premises,2020/2021,225
+NC,Robbery of Cash in Transit,2011/2012,2
+NC,Robbery of Cash in Transit,2012/2013,1
+NC,Robbery of Cash in Transit,2013/2014,2
+NC,Robbery of Cash in Transit,2014/2015,0
+NC,Robbery of Cash in Transit,2015/2016,1
+NC,Robbery of Cash in Transit,2016/2017,0
+NC,Robbery of Cash in Transit,2017/2018,1
+NC,Robbery of Cash in Transit,2018/2019,1
+NC,Robbery of Cash in Transit,2019/2020,1
+NC,Robbery of Cash in Transit,2020/2021,0
+NC,Bank Robbery,2011/2012,0
+NC,Bank Robbery,2012/2013,0
+NC,Bank Robbery,2013/2014,0
+NC,Bank Robbery,2014/2015,1
+NC,Bank Robbery,2015/2016,0
+NC,Bank Robbery,2016/2017,0
+NC,Bank Robbery,2017/2018,0
+NC,Bank Robbery,2018/2019,0
+NC,Bank Robbery,2019/2020,0
+NC,Bank Robbery,2020/2021,0
+NC,Truck Hijacking,2011/2012,4
+NC,Truck Hijacking,2012/2013,4
+NC,Truck Hijacking,2013/2014,0
+NC,Truck Hijacking,2014/2015,0
+NC,Truck Hijacking,2015/2016,2
+NC,Truck Hijacking,2016/2017,0
+NC,Truck Hijacking,2017/2018,3
+NC,Truck Hijacking,2018/2019,4
+NC,Truck Hijacking,2019/2020,1
+NC,Truck Hijacking,2020/2021,3
+NC,Other,2011/2012,654
+NC,Other,2012/2013,887
+NC,Other,2013/2014,980
+NC,Other,2014/2015,1067
+NC,Other,2015/2016,973
+NC,Other,2016/2017,1030
+NC,Other,2017/2018,1140
+NC,Other,2018/2019,1247
+NC,Other,2019/2020,1277
+NC,Other,2020/2021,1027
+WC,Car Hijacking,2011/2012,539
+WC,Car Hijacking,2012/2013,782
+WC,Car Hijacking,2013/2014,956
+WC,Car Hijacking,2014/2015,1530
+WC,Car Hijacking,2015/2016,2032
+WC,Car Hijacking,2016/2017,2201
+WC,Car Hijacking,2017/2018,2182
+WC,Car Hijacking,2018/2019,2294
+WC,Car Hijacking,2019/2020,2760
+WC,Car Hijacking,2020/2021,2630
+WC,Robbery at Residential Premises,2011/2012,1344
+WC,Robbery at Residential Premises,2012/2013,1647
+WC,Robbery at Residential Premises,2013/2014,1878
+WC,Robbery at Residential Premises,2014/2015,2158
+WC,Robbery at Residential Premises,2015/2016,2574
+WC,Robbery at Residential Premises,2016/2017,2560
+WC,Robbery at Residential Premises,2017/2018,2787
+WC,Robbery at Residential Premises,2018/2019,2749
+WC,Robbery at Residential Premises,2019/2020,2414
+WC,Robbery at Residential Premises,2020/2021,2742
+WC,Robbery at Non-Residential Premises,2011/2012,1563
+WC,Robbery at Non-Residential Premises,2012/2013,1933
+WC,Robbery at Non-Residential Premises,2013/2014,2154
+WC,Robbery at Non-Residential Premises,2014/2015,2218
+WC,Robbery at Non-Residential Premises,2015/2016,1973
+WC,Robbery at Non-Residential Premises,2016/2017,1889
+WC,Robbery at Non-Residential Premises,2017/2018,2033
+WC,Robbery at Non-Residential Premises,2018/2019,1689
+WC,Robbery at Non-Residential Premises,2019/2020,1879
+WC,Robbery at Non-Residential Premises,2020/2021,1567
+WC,Robbery of Cash in Transit,2011/2012,14
+WC,Robbery of Cash in Transit,2012/2013,30
+WC,Robbery of Cash in Transit,2013/2014,18
+WC,Robbery of Cash in Transit,2014/2015,15
+WC,Robbery of Cash in Transit,2015/2016,24
+WC,Robbery of Cash in Transit,2016/2017,35
+WC,Robbery of Cash in Transit,2017/2018,26
+WC,Robbery of Cash in Transit,2018/2019,15
+WC,Robbery of Cash in Transit,2019/2020,12
+WC,Robbery of Cash in Transit,2020/2021,17
+WC,Bank Robbery,2011/2012,0
+WC,Bank Robbery,2012/2013,1
+WC,Bank Robbery,2013/2014,0
+WC,Bank Robbery,2014/2015,1
+WC,Bank Robbery,2015/2016,0
+WC,Bank Robbery,2016/2017,0
+WC,Bank Robbery,2017/2018,1
+WC,Bank Robbery,2018/2019,0
+WC,Bank Robbery,2019/2020,0
+WC,Bank Robbery,2020/2021,0
+WC,Truck Hijacking,2011/2012,31
+WC,Truck Hijacking,2012/2013,37
+WC,Truck Hijacking,2013/2014,40
+WC,Truck Hijacking,2014/2015,62
+WC,Truck Hijacking,2015/2016,46
+WC,Truck Hijacking,2016/2017,58
+WC,Truck Hijacking,2017/2018,121
+WC,Truck Hijacking,2018/2019,117
+WC,Truck Hijacking,2019/2020,129
+WC,Truck Hijacking,2020/2021,173
+WC,Other,2011/2012,10248
+WC,Other,2012/2013,12251
+WC,Other,2013/2014,14438
+WC,Other,2014/2015,17132
+WC,Other,2015/2016,17083
+WC,Other,2016/2017,17289
+WC,Other,2017/2018,17179
+WC,Other,2018/2019,17201
+WC,Other,2019/2020,17355
+WC,Other,2020/2021,11921
+ZA,Car Hijacking,2021/2022,20923
+ZA,Robbery at Residential Premises,2021/2022,21832
+ZA,Robbery at Non-Residential Premises,2021/2022,20012
+ZA,Robbery of Cash in Transit,2021/2022,238
+ZA,Bank Robbery,2021/2022,13
+ZA,Truck Hijacking,2021/2022,1741
+EC,Car Hijacking,2021/2022,1342
+EC,Robbery at Residential Premises,2021/2022,1891
+EC,Robbery at Non-Residential Premises,2021/2022,2314
+EC,Robbery of Cash in Transit,2021/2022,37
+EC,Bank Robbery,2021/2022,3
+EC,Truck Hijacking,2021/2022,136
+FS,Car Hijacking,2021/2022,230
+FS,Robbery at Residential Premises,2021/2022,726
+FS,Robbery at Non-Residential Premises,2021/2022,831
+FS,Robbery of Cash in Transit,2021/2022,11
+FS,Bank Robbery,2021/2022,1
+FS,Truck Hijacking,2021/2022,77
+GT,Car Hijacking,2021/2022,10964
+GT,Robbery at Residential Premises,2021/2022,7497
+GT,Robbery at Non-Residential Premises,2021/2022,6455
+GT,Robbery of Cash in Transit,2021/2022,72
+GT,Bank Robbery,2021/2022,2
+GT,Truck Hijacking,2021/2022,1043
+KZN,Car Hijacking,2021/2022,3279
+KZN,Robbery at Residential Premises,2021/2022,5221
+KZN,Robbery at Non-Residential Premises,2021/2022,3403
+KZN,Robbery of Cash in Transit,2021/2022,41
+KZN,Bank Robbery,2021/2022,0
+KZN,Truck Hijacking,2021/2022,83
+LIM,Car Hijacking,2021/2022,537
+LIM,Robbery at Residential Premises,2021/2022,1134
+LIM,Robbery at Non-Residential Premises,2021/2022,1821
+LIM,Robbery of Cash in Transit,2021/2022,25
+LIM,Bank Robbery,2021/2022,0
+LIM,Truck Hijacking,2021/2022,31
+MP,Car Hijacking,2021/2022,1467
+MP,Robbery at Residential Premises,2021/2022,1475
+MP,Robbery at Non-Residential Premises,2021/2022,1978
+MP,Robbery of Cash in Transit,2021/2022,21
+MP,Bank Robbery,2021/2022,0
+MP,Truck Hijacking,2021/2022,210
+NW,Car Hijacking,2021/2022,519
+NW,Robbery at Residential Premises,2021/2022,1080
+NW,Robbery at Non-Residential Premises,2021/2022,1389
+NW,Robbery of Cash in Transit,2021/2022,15
+NW,Bank Robbery,2021/2022,0
+NW,Truck Hijacking,2021/2022,68
+NC,Car Hijacking,2021/2022,23
+NC,Robbery at Residential Premises,2021/2022,141
+NC,Robbery at Non-Residential Premises,2021/2022,211
+NC,Robbery of Cash in Transit,2021/2022,2
+NC,Bank Robbery,2021/2022,0
+NC,Truck Hijacking,2021/2022,0
+WC,Car Hijacking,2021/2022,2562
+WC,Robbery at Residential Premises,2021/2022,2667
+WC,Robbery at Non-Residential Premises,2021/2022,1610
+WC,Robbery of Cash in Transit,2021/2022,14
+WC,Bank Robbery,2021/2022,7
+WC,Truck Hijacking,2021/2022,93
+ZA,Car Hijacking,2022/2023,22742
+ZA,Robbery at Residential Premises,2022/2023,23029
+ZA,Robbery at Non-Residential Premises,2022/2023,20007
+ZA,Robbery of Cash in Transit,2022/2023,237
+ZA,Bank Robbery,2022/2023,4
+ZA,Truck Hijacking,2022/2023,1996
+EC,Car Hijacking,2022/2023,1875
+EC,Robbery at Residential Premises,2022/2023,2139
+EC,Robbery at Non-Residential Premises,2022/2023,2196
+EC,Robbery of Cash in Transit,2022/2023,45
+EC,Bank Robbery,2022/2023,2
+EC,Truck Hijacking,2022/2023,176
+FS,Car Hijacking,2022/2023,273
+FS,Robbery at Residential Premises,2022/2023,636
+FS,Robbery at Non-Residential Premises,2022/2023,869
+FS,Robbery of Cash in Transit,2022/2023,7
+FS,Bank Robbery,2022/2023,0
+FS,Truck Hijacking,2022/2023,53
+GT,Car Hijacking,2022/2023,11263
+GT,Robbery at Residential Premises,2022/2023,7726
+GT,Robbery at Non-Residential Premises,2022/2023,6304
+GT,Robbery of Cash in Transit,2022/2023,88
+GT,Bank Robbery,2022/2023,2
+GT,Truck Hijacking,2022/2023,1216
+KZN,Car Hijacking,2022/2023,3740
+KZN,Robbery at Residential Premises,2022/2023,5977
+KZN,Robbery at Non-Residential Premises,2022/2023,3520
+KZN,Robbery of Cash in Transit,2022/2023,33
+KZN,Bank Robbery,2022/2023,0
+KZN,Truck Hijacking,2022/2023,102
+LIM,Car Hijacking,2022/2023,575
+LIM,Robbery at Residential Premises,2022/2023,1355
+LIM,Robbery at Non-Residential Premises,2022/2023,1942
+LIM,Robbery of Cash in Transit,2022/2023,23
+LIM,Bank Robbery,2022/2023,0
+LIM,Truck Hijacking,2022/2023,36
+MP,Car Hijacking,2022/2023,1270
+MP,Robbery at Residential Premises,2022/2023,1583
+MP,Robbery at Non-Residential Premises,2022/2023,1942
+MP,Robbery of Cash in Transit,2022/2023,21
+MP,Bank Robbery,2022/2023,0
+MP,Truck Hijacking,2022/2023,236
+NW,Car Hijacking,2022/2023,612
+NW,Robbery at Residential Premises,2022/2023,1094
+NW,Robbery at Non-Residential Premises,2022/2023,1388
+NW,Robbery of Cash in Transit,2022/2023,8
+NW,Bank Robbery,2022/2023,0
+NW,Truck Hijacking,2022/2023,68
+NC,Car Hijacking,2022/2023,39
+NC,Robbery at Residential Premises,2022/2023,158
+NC,Robbery at Non-Residential Premises,2022/2023,270
+NC,Robbery of Cash in Transit,2022/2023,1
+NC,Bank Robbery,2022/2023,0
+NC,Truck Hijacking,2022/2023,2
+WC,Car Hijacking,2022/2023,3095
+WC,Robbery at Residential Premises,2022/2023,2361
+WC,Robbery at Non-Residential Premises,2022/2023,1576
+WC,Robbery of Cash in Transit,2022/2023,11
+WC,Bank Robbery,2022/2023,0
+WC,Truck Hijacking,2022/2023,107

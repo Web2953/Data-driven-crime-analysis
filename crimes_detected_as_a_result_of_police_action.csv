@@ -1,0 +1,481 @@
+Geography,Crime Detected as a Result of Police Action,Financial Year,Count
+ZA,Illegal Possession of Firearms & Ammunition,2011/2012,14372
+ZA,Illegal Possession of Firearms & Ammunition,2012/2013,14813
+ZA,Illegal Possession of Firearms & Ammunition,2013/2014,15362
+ZA,Illegal Possession of Firearms & Ammunition,2014/2015,15116
+ZA,Illegal Possession of Firearms & Ammunition,2015/2016,14772
+ZA,Illegal Possession of Firearms & Ammunition,2016/2017,16134
+ZA,Illegal Possession of Firearms & Ammunition,2017/2018,17558
+ZA,Illegal Possession of Firearms & Ammunition,2018/2019,15736
+ZA,Illegal Possession of Firearms & Ammunition,2019/2020,15779
+ZA,Illegal Possession of Firearms & Ammunition,2020/2021,12930
+ZA,Drug Related Crime,2011/2012,176218
+ZA,Drug Related Crime,2012/2013,206721
+ZA,Drug Related Crime,2013/2014,260596
+ZA,Drug Related Crime,2014/2015,266902
+ZA,Drug Related Crime,2015/2016,259165
+ZA,Drug Related Crime,2016/2017,292689
+ZA,Drug Related Crime,2017/2018,323547
+ZA,Drug Related Crime,2018/2019,232657
+ZA,Drug Related Crime,2019/2020,170510
+ZA,Drug Related Crime,2020/2021,121359
+ZA,Driving Under the Influence of Alcohol or Drugs,2011/2012,69410
+ZA,Driving Under the Influence of Alcohol or Drugs,2012/2013,71025
+ZA,Driving Under the Influence of Alcohol or Drugs,2013/2014,69725
+ZA,Driving Under the Influence of Alcohol or Drugs,2014/2015,68561
+ZA,Driving Under the Influence of Alcohol or Drugs,2015/2016,76159
+ZA,Driving Under the Influence of Alcohol or Drugs,2016/2017,75034
+ZA,Driving Under the Influence of Alcohol or Drugs,2017/2018,86160
+ZA,Driving Under the Influence of Alcohol or Drugs,2018/2019,82912
+ZA,Driving Under the Influence of Alcohol or Drugs,2019/2020,94273
+ZA,Driving Under the Influence of Alcohol or Drugs,2020/2021,35860
+ZA,Sexual Offences Detected as a Result of Police Action,2011/2012,2726
+ZA,Sexual Offences Detected as a Result of Police Action,2012/2013,4175
+ZA,Sexual Offences Detected as a Result of Police Action,2013/2014,4720
+ZA,Sexual Offences Detected as a Result of Police Action,2014/2015,6340
+ZA,Sexual Offences Detected as a Result of Police Action,2015/2016,5830
+ZA,Sexual Offences Detected as a Result of Police Action,2016/2017,6164
+ZA,Sexual Offences Detected as a Result of Police Action,2017/2018,6701
+ZA,Sexual Offences Detected as a Result of Police Action,2018/2019,7976
+ZA,Sexual Offences Detected as a Result of Police Action,2019/2020,9614
+ZA,Sexual Offences Detected as a Result of Police Action,2020/2021,6946
+EC,Illegal Possession of Firearms & Ammunition,2011/2012,1455
+EC,Illegal Possession of Firearms & Ammunition,2012/2013,1530
+EC,Illegal Possession of Firearms & Ammunition,2013/2014,1834
+EC,Illegal Possession of Firearms & Ammunition,2014/2015,1719
+EC,Illegal Possession of Firearms & Ammunition,2015/2016,1773
+EC,Illegal Possession of Firearms & Ammunition,2016/2017,2045
+EC,Illegal Possession of Firearms & Ammunition,2017/2018,2142
+EC,Illegal Possession of Firearms & Ammunition,2018/2019,1995
+EC,Illegal Possession of Firearms & Ammunition,2019/2020,2156
+EC,Illegal Possession of Firearms & Ammunition,2020/2021,1685
+EC,Drug Related Crime,2011/2012,11643
+EC,Drug Related Crime,2012/2013,12871
+EC,Drug Related Crime,2013/2014,15032
+EC,Drug Related Crime,2014/2015,16038
+EC,Drug Related Crime,2015/2016,16129
+EC,Drug Related Crime,2016/2017,17710
+EC,Drug Related Crime,2017/2018,18936
+EC,Drug Related Crime,2018/2019,15213
+EC,Drug Related Crime,2019/2020,13343
+EC,Drug Related Crime,2020/2021,9780
+EC,Driving Under the Influence of Alcohol or Drugs,2011/2012,7771
+EC,Driving Under the Influence of Alcohol or Drugs,2012/2013,7603
+EC,Driving Under the Influence of Alcohol or Drugs,2013/2014,7349
+EC,Driving Under the Influence of Alcohol or Drugs,2014/2015,6946
+EC,Driving Under the Influence of Alcohol or Drugs,2015/2016,6547
+EC,Driving Under the Influence of Alcohol or Drugs,2016/2017,6090
+EC,Driving Under the Influence of Alcohol or Drugs,2017/2018,5648
+EC,Driving Under the Influence of Alcohol or Drugs,2018/2019,5269
+EC,Driving Under the Influence of Alcohol or Drugs,2019/2020,5293
+EC,Driving Under the Influence of Alcohol or Drugs,2020/2021,1936
+EC,Sexual Offences Detected as a Result of Police Action,2011/2012,101
+EC,Sexual Offences Detected as a Result of Police Action,2012/2013,96
+EC,Sexual Offences Detected as a Result of Police Action,2013/2014,119
+EC,Sexual Offences Detected as a Result of Police Action,2014/2015,219
+EC,Sexual Offences Detected as a Result of Police Action,2015/2016,262
+EC,Sexual Offences Detected as a Result of Police Action,2016/2017,337
+EC,Sexual Offences Detected as a Result of Police Action,2017/2018,275
+EC,Sexual Offences Detected as a Result of Police Action,2018/2019,81
+EC,Sexual Offences Detected as a Result of Police Action,2019/2020,77
+EC,Sexual Offences Detected as a Result of Police Action,2020/2021,26
+FS,Illegal Possession of Firearms & Ammunition,2011/2012,328
+FS,Illegal Possession of Firearms & Ammunition,2012/2013,431
+FS,Illegal Possession of Firearms & Ammunition,2013/2014,479
+FS,Illegal Possession of Firearms & Ammunition,2014/2015,442
+FS,Illegal Possession of Firearms & Ammunition,2015/2016,469
+FS,Illegal Possession of Firearms & Ammunition,2016/2017,527
+FS,Illegal Possession of Firearms & Ammunition,2017/2018,570
+FS,Illegal Possession of Firearms & Ammunition,2018/2019,513
+FS,Illegal Possession of Firearms & Ammunition,2019/2020,416
+FS,Illegal Possession of Firearms & Ammunition,2020/2021,331
+FS,Drug Related Crime,2011/2012,4455
+FS,Drug Related Crime,2012/2013,6153
+FS,Drug Related Crime,2013/2014,8189
+FS,Drug Related Crime,2014/2015,8776
+FS,Drug Related Crime,2015/2016,9623
+FS,Drug Related Crime,2016/2017,11314
+FS,Drug Related Crime,2017/2018,12176
+FS,Drug Related Crime,2018/2019,7888
+FS,Drug Related Crime,2019/2020,3989
+FS,Drug Related Crime,2020/2021,3379
+FS,Driving Under the Influence of Alcohol or Drugs,2011/2012,1518
+FS,Driving Under the Influence of Alcohol or Drugs,2012/2013,1671
+FS,Driving Under the Influence of Alcohol or Drugs,2013/2014,1767
+FS,Driving Under the Influence of Alcohol or Drugs,2014/2015,1976
+FS,Driving Under the Influence of Alcohol or Drugs,2015/2016,2448
+FS,Driving Under the Influence of Alcohol or Drugs,2016/2017,2828
+FS,Driving Under the Influence of Alcohol or Drugs,2017/2018,2824
+FS,Driving Under the Influence of Alcohol or Drugs,2018/2019,3000
+FS,Driving Under the Influence of Alcohol or Drugs,2019/2020,3207
+FS,Driving Under the Influence of Alcohol or Drugs,2020/2021,1937
+FS,Sexual Offences Detected as a Result of Police Action,2011/2012,55
+FS,Sexual Offences Detected as a Result of Police Action,2012/2013,79
+FS,Sexual Offences Detected as a Result of Police Action,2013/2014,135
+FS,Sexual Offences Detected as a Result of Police Action,2014/2015,193
+FS,Sexual Offences Detected as a Result of Police Action,2015/2016,251
+FS,Sexual Offences Detected as a Result of Police Action,2016/2017,346
+FS,Sexual Offences Detected as a Result of Police Action,2017/2018,441
+FS,Sexual Offences Detected as a Result of Police Action,2018/2019,506
+FS,Sexual Offences Detected as a Result of Police Action,2019/2020,701
+FS,Sexual Offences Detected as a Result of Police Action,2020/2021,604
+GT,Illegal Possession of Firearms & Ammunition,2011/2012,3886
+GT,Illegal Possession of Firearms & Ammunition,2012/2013,3697
+GT,Illegal Possession of Firearms & Ammunition,2013/2014,3667
+GT,Illegal Possession of Firearms & Ammunition,2014/2015,3740
+GT,Illegal Possession of Firearms & Ammunition,2015/2016,3600
+GT,Illegal Possession of Firearms & Ammunition,2016/2017,4126
+GT,Illegal Possession of Firearms & Ammunition,2017/2018,4505
+GT,Illegal Possession of Firearms & Ammunition,2018/2019,3947
+GT,Illegal Possession of Firearms & Ammunition,2019/2020,4079
+GT,Illegal Possession of Firearms & Ammunition,2020/2021,3484
+GT,Drug Related Crime,2011/2012,25923
+GT,Drug Related Crime,2012/2013,38131
+GT,Drug Related Crime,2013/2014,74667
+GT,Drug Related Crime,2014/2015,70264
+GT,Drug Related Crime,2015/2016,55442
+GT,Drug Related Crime,2016/2017,62837
+GT,Drug Related Crime,2017/2018,69285
+GT,Drug Related Crime,2018/2019,55639
+GT,Drug Related Crime,2019/2020,43275
+GT,Drug Related Crime,2020/2021,28034
+GT,Driving Under the Influence of Alcohol or Drugs,2011/2012,20754
+GT,Driving Under the Influence of Alcohol or Drugs,2012/2013,21770
+GT,Driving Under the Influence of Alcohol or Drugs,2013/2014,26085
+GT,Driving Under the Influence of Alcohol or Drugs,2014/2015,25794
+GT,Driving Under the Influence of Alcohol or Drugs,2015/2016,32287
+GT,Driving Under the Influence of Alcohol or Drugs,2016/2017,27834
+GT,Driving Under the Influence of Alcohol or Drugs,2017/2018,33173
+GT,Driving Under the Influence of Alcohol or Drugs,2018/2019,30203
+GT,Driving Under the Influence of Alcohol or Drugs,2019/2020,34860
+GT,Driving Under the Influence of Alcohol or Drugs,2020/2021,15493
+GT,Sexual Offences Detected as a Result of Police Action,2011/2012,522
+GT,Sexual Offences Detected as a Result of Police Action,2012/2013,739
+GT,Sexual Offences Detected as a Result of Police Action,2013/2014,439
+GT,Sexual Offences Detected as a Result of Police Action,2014/2015,469
+GT,Sexual Offences Detected as a Result of Police Action,2015/2016,470
+GT,Sexual Offences Detected as a Result of Police Action,2016/2017,606
+GT,Sexual Offences Detected as a Result of Police Action,2017/2018,651
+GT,Sexual Offences Detected as a Result of Police Action,2018/2019,687
+GT,Sexual Offences Detected as a Result of Police Action,2019/2020,876
+GT,Sexual Offences Detected as a Result of Police Action,2020/2021,848
+KZN,Illegal Possession of Firearms & Ammunition,2011/2012,4692
+KZN,Illegal Possession of Firearms & Ammunition,2012/2013,4444
+KZN,Illegal Possession of Firearms & Ammunition,2013/2014,4586
+KZN,Illegal Possession of Firearms & Ammunition,2014/2015,4081
+KZN,Illegal Possession of Firearms & Ammunition,2015/2016,3908
+KZN,Illegal Possession of Firearms & Ammunition,2016/2017,4000
+KZN,Illegal Possession of Firearms & Ammunition,2017/2018,4418
+KZN,Illegal Possession of Firearms & Ammunition,2018/2019,3733
+KZN,Illegal Possession of Firearms & Ammunition,2019/2020,3719
+KZN,Illegal Possession of Firearms & Ammunition,2020/2021,3174
+KZN,Drug Related Crime,2011/2012,37414
+KZN,Drug Related Crime,2012/2013,42167
+KZN,Drug Related Crime,2013/2014,45950
+KZN,Drug Related Crime,2014/2015,47377
+KZN,Drug Related Crime,2015/2016,46354
+KZN,Drug Related Crime,2016/2017,50429
+KZN,Drug Related Crime,2017/2018,53987
+KZN,Drug Related Crime,2018/2019,35358
+KZN,Drug Related Crime,2019/2020,25990
+KZN,Drug Related Crime,2020/2021,19505
+KZN,Driving Under the Influence of Alcohol or Drugs,2011/2012,12866
+KZN,Driving Under the Influence of Alcohol or Drugs,2012/2013,15109
+KZN,Driving Under the Influence of Alcohol or Drugs,2013/2014,12595
+KZN,Driving Under the Influence of Alcohol or Drugs,2014/2015,11702
+KZN,Driving Under the Influence of Alcohol or Drugs,2015/2016,12052
+KZN,Driving Under the Influence of Alcohol or Drugs,2016/2017,13403
+KZN,Driving Under the Influence of Alcohol or Drugs,2017/2018,18218
+KZN,Driving Under the Influence of Alcohol or Drugs,2018/2019,17577
+KZN,Driving Under the Influence of Alcohol or Drugs,2019/2020,21016
+KZN,Driving Under the Influence of Alcohol or Drugs,2020/2021,4915
+KZN,Sexual Offences Detected as a Result of Police Action,2011/2012,935
+KZN,Sexual Offences Detected as a Result of Police Action,2012/2013,1188
+KZN,Sexual Offences Detected as a Result of Police Action,2013/2014,1765
+KZN,Sexual Offences Detected as a Result of Police Action,2014/2015,2258
+KZN,Sexual Offences Detected as a Result of Police Action,2015/2016,2561
+KZN,Sexual Offences Detected as a Result of Police Action,2016/2017,3558
+KZN,Sexual Offences Detected as a Result of Police Action,2017/2018,3520
+KZN,Sexual Offences Detected as a Result of Police Action,2018/2019,3615
+KZN,Sexual Offences Detected as a Result of Police Action,2019/2020,3474
+KZN,Sexual Offences Detected as a Result of Police Action,2020/2021,1777
+LIM,Illegal Possession of Firearms & Ammunition,2011/2012,413
+LIM,Illegal Possession of Firearms & Ammunition,2012/2013,496
+LIM,Illegal Possession of Firearms & Ammunition,2013/2014,488
+LIM,Illegal Possession of Firearms & Ammunition,2014/2015,474
+LIM,Illegal Possession of Firearms & Ammunition,2015/2016,456
+LIM,Illegal Possession of Firearms & Ammunition,2016/2017,533
+LIM,Illegal Possession of Firearms & Ammunition,2017/2018,640
+LIM,Illegal Possession of Firearms & Ammunition,2018/2019,702
+LIM,Illegal Possession of Firearms & Ammunition,2019/2020,635
+LIM,Illegal Possession of Firearms & Ammunition,2020/2021,545
+LIM,Drug Related Crime,2011/2012,5253
+LIM,Drug Related Crime,2012/2013,7528
+LIM,Drug Related Crime,2013/2014,9608
+LIM,Drug Related Crime,2014/2015,11716
+LIM,Drug Related Crime,2015/2016,11268
+LIM,Drug Related Crime,2016/2017,14393
+LIM,Drug Related Crime,2017/2018,19592
+LIM,Drug Related Crime,2018/2019,13533
+LIM,Drug Related Crime,2019/2020,4775
+LIM,Drug Related Crime,2020/2021,5904
+LIM,Driving Under the Influence of Alcohol or Drugs,2011/2012,2637
+LIM,Driving Under the Influence of Alcohol or Drugs,2012/2013,2831
+LIM,Driving Under the Influence of Alcohol or Drugs,2013/2014,2268
+LIM,Driving Under the Influence of Alcohol or Drugs,2014/2015,3214
+LIM,Driving Under the Influence of Alcohol or Drugs,2015/2016,4143
+LIM,Driving Under the Influence of Alcohol or Drugs,2016/2017,4420
+LIM,Driving Under the Influence of Alcohol or Drugs,2017/2018,5684
+LIM,Driving Under the Influence of Alcohol or Drugs,2018/2019,6557
+LIM,Driving Under the Influence of Alcohol or Drugs,2019/2020,7916
+LIM,Driving Under the Influence of Alcohol or Drugs,2020/2021,3972
+LIM,Sexual Offences Detected as a Result of Police Action,2011/2012,778
+LIM,Sexual Offences Detected as a Result of Police Action,2012/2013,1547
+LIM,Sexual Offences Detected as a Result of Police Action,2013/2014,1905
+LIM,Sexual Offences Detected as a Result of Police Action,2014/2015,2917
+LIM,Sexual Offences Detected as a Result of Police Action,2015/2016,1842
+LIM,Sexual Offences Detected as a Result of Police Action,2016/2017,698
+LIM,Sexual Offences Detected as a Result of Police Action,2017/2018,1346
+LIM,Sexual Offences Detected as a Result of Police Action,2018/2019,2457
+LIM,Sexual Offences Detected as a Result of Police Action,2019/2020,3594
+LIM,Sexual Offences Detected as a Result of Police Action,2020/2021,3346
+MP,Illegal Possession of Firearms & Ammunition,2011/2012,704
+MP,Illegal Possession of Firearms & Ammunition,2012/2013,800
+MP,Illegal Possession of Firearms & Ammunition,2013/2014,937
+MP,Illegal Possession of Firearms & Ammunition,2014/2015,1068
+MP,Illegal Possession of Firearms & Ammunition,2015/2016,977
+MP,Illegal Possession of Firearms & Ammunition,2016/2017,1137
+MP,Illegal Possession of Firearms & Ammunition,2017/2018,1084
+MP,Illegal Possession of Firearms & Ammunition,2018/2019,906
+MP,Illegal Possession of Firearms & Ammunition,2019/2020,1039
+MP,Illegal Possession of Firearms & Ammunition,2020/2021,495
+MP,Drug Related Crime,2011/2012,4151
+MP,Drug Related Crime,2012/2013,5834
+MP,Drug Related Crime,2013/2014,7459
+MP,Drug Related Crime,2014/2015,8841
+MP,Drug Related Crime,2015/2016,9820
+MP,Drug Related Crime,2016/2017,11519
+MP,Drug Related Crime,2017/2018,13026
+MP,Drug Related Crime,2018/2019,9959
+MP,Drug Related Crime,2019/2020,6670
+MP,Drug Related Crime,2020/2021,4517
+MP,Driving Under the Influence of Alcohol or Drugs,2011/2012,3756
+MP,Driving Under the Influence of Alcohol or Drugs,2012/2013,4023
+MP,Driving Under the Influence of Alcohol or Drugs,2013/2014,3088
+MP,Driving Under the Influence of Alcohol or Drugs,2014/2015,2974
+MP,Driving Under the Influence of Alcohol or Drugs,2015/2016,3649
+MP,Driving Under the Influence of Alcohol or Drugs,2016/2017,4205
+MP,Driving Under the Influence of Alcohol or Drugs,2017/2018,4300
+MP,Driving Under the Influence of Alcohol or Drugs,2018/2019,4316
+MP,Driving Under the Influence of Alcohol or Drugs,2019/2020,5541
+MP,Driving Under the Influence of Alcohol or Drugs,2020/2021,2146
+MP,Sexual Offences Detected as a Result of Police Action,2011/2012,46
+MP,Sexual Offences Detected as a Result of Police Action,2012/2013,83
+MP,Sexual Offences Detected as a Result of Police Action,2013/2014,50
+MP,Sexual Offences Detected as a Result of Police Action,2014/2015,46
+MP,Sexual Offences Detected as a Result of Police Action,2015/2016,93
+MP,Sexual Offences Detected as a Result of Police Action,2016/2017,41
+MP,Sexual Offences Detected as a Result of Police Action,2017/2018,24
+MP,Sexual Offences Detected as a Result of Police Action,2018/2019,24
+MP,Sexual Offences Detected as a Result of Police Action,2019/2020,17
+MP,Sexual Offences Detected as a Result of Police Action,2020/2021,9
+NW,Illegal Possession of Firearms & Ammunition,2011/2012,466
+NW,Illegal Possession of Firearms & Ammunition,2012/2013,464
+NW,Illegal Possession of Firearms & Ammunition,2013/2014,493
+NW,Illegal Possession of Firearms & Ammunition,2014/2015,531
+NW,Illegal Possession of Firearms & Ammunition,2015/2016,678
+NW,Illegal Possession of Firearms & Ammunition,2016/2017,735
+NW,Illegal Possession of Firearms & Ammunition,2017/2018,674
+NW,Illegal Possession of Firearms & Ammunition,2018/2019,692
+NW,Illegal Possession of Firearms & Ammunition,2019/2020,704
+NW,Illegal Possession of Firearms & Ammunition,2020/2021,617
+NW,Drug Related Crime,2011/2012,7677
+NW,Drug Related Crime,2012/2013,9152
+NW,Drug Related Crime,2013/2014,11007
+NW,Drug Related Crime,2014/2015,11632
+NW,Drug Related Crime,2015/2016,12189
+NW,Drug Related Crime,2016/2017,11972
+NW,Drug Related Crime,2017/2018,13825
+NW,Drug Related Crime,2018/2019,9910
+NW,Drug Related Crime,2019/2020,7140
+NW,Drug Related Crime,2020/2021,3511
+NW,Driving Under the Influence of Alcohol or Drugs,2011/2012,1718
+NW,Driving Under the Influence of Alcohol or Drugs,2012/2013,2028
+NW,Driving Under the Influence of Alcohol or Drugs,2013/2014,2246
+NW,Driving Under the Influence of Alcohol or Drugs,2014/2015,1927
+NW,Driving Under the Influence of Alcohol or Drugs,2015/2016,2583
+NW,Driving Under the Influence of Alcohol or Drugs,2016/2017,2562
+NW,Driving Under the Influence of Alcohol or Drugs,2017/2018,2725
+NW,Driving Under the Influence of Alcohol or Drugs,2018/2019,2777
+NW,Driving Under the Influence of Alcohol or Drugs,2019/2020,3480
+NW,Driving Under the Influence of Alcohol or Drugs,2020/2021,1303
+NW,Sexual Offences Detected as a Result of Police Action,2011/2012,33
+NW,Sexual Offences Detected as a Result of Police Action,2012/2013,224
+NW,Sexual Offences Detected as a Result of Police Action,2013/2014,136
+NW,Sexual Offences Detected as a Result of Police Action,2014/2015,106
+NW,Sexual Offences Detected as a Result of Police Action,2015/2016,87
+NW,Sexual Offences Detected as a Result of Police Action,2016/2017,255
+NW,Sexual Offences Detected as a Result of Police Action,2017/2018,261
+NW,Sexual Offences Detected as a Result of Police Action,2018/2019,428
+NW,Sexual Offences Detected as a Result of Police Action,2019/2020,704
+NW,Sexual Offences Detected as a Result of Police Action,2020/2021,230
+NC,Illegal Possession of Firearms & Ammunition,2011/2012,55
+NC,Illegal Possession of Firearms & Ammunition,2012/2013,65
+NC,Illegal Possession of Firearms & Ammunition,2013/2014,92
+NC,Illegal Possession of Firearms & Ammunition,2014/2015,102
+NC,Illegal Possession of Firearms & Ammunition,2015/2016,92
+NC,Illegal Possession of Firearms & Ammunition,2016/2017,102
+NC,Illegal Possession of Firearms & Ammunition,2017/2018,103
+NC,Illegal Possession of Firearms & Ammunition,2018/2019,99
+NC,Illegal Possession of Firearms & Ammunition,2019/2020,70
+NC,Illegal Possession of Firearms & Ammunition,2020/2021,81
+NC,Drug Related Crime,2011/2012,2667
+NC,Drug Related Crime,2012/2013,2852
+NC,Drug Related Crime,2013/2014,3247
+NC,Drug Related Crime,2014/2015,3527
+NC,Drug Related Crime,2015/2016,4344
+NC,Drug Related Crime,2016/2017,5136
+NC,Drug Related Crime,2017/2018,5563
+NC,Drug Related Crime,2018/2019,3813
+NC,Drug Related Crime,2019/2020,2620
+NC,Drug Related Crime,2020/2021,2108
+NC,Driving Under the Influence of Alcohol or Drugs,2011/2012,867
+NC,Driving Under the Influence of Alcohol or Drugs,2012/2013,829
+NC,Driving Under the Influence of Alcohol or Drugs,2013/2014,744
+NC,Driving Under the Influence of Alcohol or Drugs,2014/2015,804
+NC,Driving Under the Influence of Alcohol or Drugs,2015/2016,725
+NC,Driving Under the Influence of Alcohol or Drugs,2016/2017,797
+NC,Driving Under the Influence of Alcohol or Drugs,2017/2018,812
+NC,Driving Under the Influence of Alcohol or Drugs,2018/2019,652
+NC,Driving Under the Influence of Alcohol or Drugs,2019/2020,620
+NC,Driving Under the Influence of Alcohol or Drugs,2020/2021,398
+NC,Sexual Offences Detected as a Result of Police Action,2011/2012,8
+NC,Sexual Offences Detected as a Result of Police Action,2012/2013,3
+NC,Sexual Offences Detected as a Result of Police Action,2013/2014,10
+NC,Sexual Offences Detected as a Result of Police Action,2014/2015,3
+NC,Sexual Offences Detected as a Result of Police Action,2015/2016,22
+NC,Sexual Offences Detected as a Result of Police Action,2016/2017,49
+NC,Sexual Offences Detected as a Result of Police Action,2017/2018,17
+NC,Sexual Offences Detected as a Result of Police Action,2018/2019,9
+NC,Sexual Offences Detected as a Result of Police Action,2019/2020,6
+NC,Sexual Offences Detected as a Result of Police Action,2020/2021,7
+WC,Illegal Possession of Firearms & Ammunition,2011/2012,2373
+WC,Illegal Possession of Firearms & Ammunition,2012/2013,2886
+WC,Illegal Possession of Firearms & Ammunition,2013/2014,2786
+WC,Illegal Possession of Firearms & Ammunition,2014/2015,2959
+WC,Illegal Possession of Firearms & Ammunition,2015/2016,2819
+WC,Illegal Possession of Firearms & Ammunition,2016/2017,2929
+WC,Illegal Possession of Firearms & Ammunition,2017/2018,3422
+WC,Illegal Possession of Firearms & Ammunition,2018/2019,3149
+WC,Illegal Possession of Firearms & Ammunition,2019/2020,2961
+WC,Illegal Possession of Firearms & Ammunition,2020/2021,2518
+WC,Drug Related Crime,2011/2012,77035
+WC,Drug Related Crime,2012/2013,82033
+WC,Drug Related Crime,2013/2014,85437
+WC,Drug Related Crime,2014/2015,88731
+WC,Drug Related Crime,2015/2016,93996
+WC,Drug Related Crime,2016/2017,107379
+WC,Drug Related Crime,2017/2018,117157
+WC,Drug Related Crime,2018/2019,81344
+WC,Drug Related Crime,2019/2020,62708
+WC,Drug Related Crime,2020/2021,44621
+WC,Driving Under the Influence of Alcohol or Drugs,2011/2012,17523
+WC,Driving Under the Influence of Alcohol or Drugs,2012/2013,15161
+WC,Driving Under the Influence of Alcohol or Drugs,2013/2014,13583
+WC,Driving Under the Influence of Alcohol or Drugs,2014/2015,13224
+WC,Driving Under the Influence of Alcohol or Drugs,2015/2016,11725
+WC,Driving Under the Influence of Alcohol or Drugs,2016/2017,12895
+WC,Driving Under the Influence of Alcohol or Drugs,2017/2018,12776
+WC,Driving Under the Influence of Alcohol or Drugs,2018/2019,12561
+WC,Driving Under the Influence of Alcohol or Drugs,2019/2020,12340
+WC,Driving Under the Influence of Alcohol or Drugs,2020/2021,3760
+WC,Sexual Offences Detected as a Result of Police Action,2011/2012,248
+WC,Sexual Offences Detected as a Result of Police Action,2012/2013,216
+WC,Sexual Offences Detected as a Result of Police Action,2013/2014,161
+WC,Sexual Offences Detected as a Result of Police Action,2014/2015,129
+WC,Sexual Offences Detected as a Result of Police Action,2015/2016,242
+WC,Sexual Offences Detected as a Result of Police Action,2016/2017,274
+WC,Sexual Offences Detected as a Result of Police Action,2017/2018,166
+WC,Sexual Offences Detected as a Result of Police Action,2018/2019,169
+WC,Sexual Offences Detected as a Result of Police Action,2019/2020,165
+WC,Sexual Offences Detected as a Result of Police Action,2020/2021,99
+ZA,Illegal Possession of Firearms & Ammunition,2021/2022,13549
+ZA,Drug Related Crime,2021/2022,140326
+ZA,Driving Under the Influence of Alcohol or Drugs,2021/2022,43873
+ZA,Sexual Offences Detected as a Result of Police Action,2021/2022,7242
+EC,Illegal Possession of Firearms & Ammunition,2021/2022,1688
+EC,Drug Related Crime,2021/2022,9561
+EC,Driving Under the Influence of Alcohol or Drugs,2021/2022,3517
+EC,Sexual Offences Detected as a Result of Police Action,2021/2022,23
+FS,Illegal Possession of Firearms & Ammunition,2021/2022,468
+FS,Drug Related Crime,2021/2022,4143
+FS,Driving Under the Influence of Alcohol or Drugs,2021/2022,2330
+FS,Sexual Offences Detected as a Result of Police Action,2021/2022,818
+GT,Illegal Possession of Firearms & Ammunition,2021/2022,3610
+GT,Drug Related Crime,2021/2022,29578
+GT,Driving Under the Influence of Alcohol or Drugs,2021/2022,18492
+GT,Sexual Offences Detected as a Result of Police Action,2021/2022,928
+KZN,Illegal Possession of Firearms & Ammunition,2021/2022,3285
+KZN,Drug Related Crime,2021/2022,19965
+KZN,Driving Under the Influence of Alcohol or Drugs,2021/2022,5423
+KZN,Sexual Offences Detected as a Result of Police Action,2021/2022,2121
+LIM,Illegal Possession of Firearms & Ammunition,2021/2022,476
+LIM,Drug Related Crime,2021/2022,5507
+LIM,Driving Under the Influence of Alcohol or Drugs,2021/2022,3205
+LIM,Sexual Offences Detected as a Result of Police Action,2021/2022,2563
+MP,Illegal Possession of Firearms & Ammunition,2021/2022,740
+MP,Drug Related Crime,2021/2022,4663
+MP,Driving Under the Influence of Alcohol or Drugs,2021/2022,2254
+MP,Sexual Offences Detected as a Result of Police Action,2021/2022,10
+NW,Illegal Possession of Firearms & Ammunition,2021/2022,569
+NW,Drug Related Crime,2021/2022,4705
+NW,Driving Under the Influence of Alcohol or Drugs,2021/2022,2479
+NW,Sexual Offences Detected as a Result of Police Action,2021/2022,741
+NC,Illegal Possession of Firearms & Ammunition,2021/2022,70
+NC,Drug Related Crime,2021/2022,1969
+NC,Driving Under the Influence of Alcohol or Drugs,2021/2022,443
+NC,Sexual Offences Detected as a Result of Police Action,2021/2022,5
+WC,Illegal Possession of Firearms & Ammunition,2021/2022,2643
+WC,Drug Related Crime,2021/2022,60235
+WC,Driving Under the Influence of Alcohol or Drugs,2021/2022,5730
+WC,Sexual Offences Detected as a Result of Police Action,2021/2022,33
+ZA,Illegal Possession of Firearms & Ammunition,2022/2023,15598
+ZA,Drug Related Crime,2022/2023,162052
+ZA,Driving Under the Influence of Alcohol or Drugs,2022/2023,41758
+ZA,Sexual Offences Detected as a Result of Police Action,2022/2023,9575
+EC,Illegal Possession of Firearms & Ammunition,2022/2023,2035
+EC,Drug Related Crime,2022/2023,11155
+EC,Driving Under the Influence of Alcohol or Drugs,2022/2023,2974
+EC,Sexual Offences Detected as a Result of Police Action,2022/2023,20
+FS,Illegal Possession of Firearms & Ammunition,2022/2023,561
+FS,Drug Related Crime,2022/2023,5607
+FS,Driving Under the Influence of Alcohol or Drugs,2022/2023,2468
+FS,Sexual Offences Detected as a Result of Police Action,2022/2023,1180
+GT,Illegal Possession of Firearms & Ammunition,2022/2023,4267
+GT,Drug Related Crime,2022/2023,34947
+GT,Driving Under the Influence of Alcohol or Drugs,2022/2023,18667
+GT,Sexual Offences Detected as a Result of Police Action,2022/2023,1467
+KZN,Illegal Possession of Firearms & Ammunition,2022/2023,3702
+KZN,Drug Related Crime,2022/2023,23028
+KZN,Driving Under the Influence of Alcohol or Drugs,2022/2023,2772
+KZN,Sexual Offences Detected as a Result of Police Action,2022/2023,2687
+LIM,Illegal Possession of Firearms & Ammunition,2022/2023,615
+LIM,Drug Related Crime,2022/2023,6830
+LIM,Driving Under the Influence of Alcohol or Drugs,2022/2023,1610
+LIM,Sexual Offences Detected as a Result of Police Action,2022/2023,2912
+MP,Illegal Possession of Firearms & Ammunition,2022/2023,816
+MP,Drug Related Crime,2022/2023,4988
+MP,Driving Under the Influence of Alcohol or Drugs,2022/2023,1450
+MP,Sexual Offences Detected as a Result of Police Action,2022/2023,8
+NW,Illegal Possession of Firearms & Ammunition,2022/2023,744
+NW,Drug Related Crime,2022/2023,5898
+NW,Driving Under the Influence of Alcohol or Drugs,2022/2023,2312
+NW,Sexual Offences Detected as a Result of Police Action,2022/2023,1256
+NC,Illegal Possession of Firearms & Ammunition,2022/2023,70
+NC,Drug Related Crime,2022/2023,2577
+NC,Driving Under the Influence of Alcohol or Drugs,2022/2023,250
+NC,Sexual Offences Detected as a Result of Police Action,2022/2023,4
+WC,Illegal Possession of Firearms & Ammunition,2022/2023,2788
+WC,Drug Related Crime,2022/2023,67022
+WC,Driving Under the Influence of Alcohol or Drugs,2022/2023,9255
+WC,Sexual Offences Detected as a Result of Police Action,2022/2023,41
